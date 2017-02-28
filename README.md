@@ -1,8 +1,5 @@
-# craft2es17
-Syllabus del curso Craft 2 en Español del Programa Bilingüe de la Maestría de Periodismo de CUNY
-(Aun Editando)
-
-# Periodismo y redacción avanzada (Craft II en español)
+# Craft II en Español: Periodismo y redacción avanzada
+Programa Bilingüe de la Maestría de Periodismo de CUNY
 
 Código: Journ 72000  
 6 Créditos  
