@@ -1,5 +1,5 @@
 # Fechas de entrega importantes
-
+Craft II en Español: Periodismo y redacción avanzada, Programa Bilingüe de la Maestría de Periodismo de CUNY
 
 Todos los ejercicios deben formar parte de una página web hecha por cada grupo de estudiantes.
 Para las entregas, los estudiantes deben llenar el [formulario](http://bit.ly/craft2espannol17form). En el formulario se debe especificar claramente la tarea y el trabajo hecho por cada estudiante en el ejercicio.
@@ -33,7 +33,6 @@ Demo day | Martes 16 de mayo, sala de redacción
 [Volver al Syllabus](https://github.com/craft2es/craft2es17/blob/master/README.md).
 
 *Este calendario no incluye lecturas ni ejercicios semanales de investigación y datos*
-
 
 
 
