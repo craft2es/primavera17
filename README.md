@@ -35,7 +35,7 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 	- [Ejes temáticos](#ejes-temticos)
 	- [Trabajos interactivos y multimedia](#trabajos-interactivos-y-multimedia)
 	- [El proceso](#el-proceso)		
-	- [Requisitos de entrega](#heavycheckmark-requisitos-de-entrega)
+	- [Requisitos de entrega](#heavy_check_mark-requisitos-de-entrega)
 - [:key: Rúbrica](#key-rúbrica)
 - [:mortar_board: Objetivos del curso](#mortarboard-objetivos-del-curso)
 - [:calendar: Calendario](#calendar-calendario)
@@ -54,7 +54,7 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 	- [SEMANA 13](#semana-13)
 	- [SEMANA 14](#semana-14)
 	- [SEMANA 15](#semana-15)
-- [:zap: Fechas de entrega principales](#fechas-de-entrega-principales)
+- [:zap: Fechas de entrega principales](#zap-fechas-de-entrega-principales)
 - [:muscle: Editores y Mentores](#muscle-editores-y-mentores)
 - [:books: Lecturas](#books-lecturas)
 
