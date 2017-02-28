@@ -1,16 +1,38 @@
 # Fechas de entrega importantes
 
-Trabajo | Fecha de entrega
+
+Todos los ejercicios deben formar parte de una página web hecha por cada grupo de estudiantes.  Para las entregas, los estudiantes deben llenar el [formulario](http://bit.ly/craft2espannol17form). En el formulario se debe especificar claramente la tarea y el trabajo hecho por cada estudiante en el ejercicio.
+
+Todas las entregas, incluyendo los "pitches" por escrito, se deben enviar a los profesores el lunes antes de la clase, a más tardar a las 12 del mediodía.
+
+Los estudiantes recibirán su nota y los comentarios de los profesores a través de un correo electrónico.
+
+Recuerden que cada tarea formará parte del proyecto final. 
+
+
+Tarea | Fecha de entrega
 ------------ | -------------
-Pitches | Week 3. Wed. Feb. 22, noon
-Story 1 reporting memo 1 | Week 4. Wed. March 1, noon
-Story 1 reporting memo 2 | Week 5. Wed. March 8, noon
-Story 1 draft | Week 6. Wed. March 15, noon
-Story 1 final | Week 7. Wed. March 22, noon
-Story 2 reporting memo 1 | Week 8. Wed. March 29, noon (or pitch new story 2 if your first idea does not work anymore)
-Story 2 reporting memo 2 | Week 9. Wed. April 5, noon
-Story 2 reporting memo 3 | Week 10. Wed. April 19, noon
-Story 2 draft 1 | Week 11. Wed. April 26, noon
-Story 2 draft 2 | Week 12. Wed. May 3, noon
-Story 2 final |  Week 13. Wed. May 10, noon.
-Story 2 web page details |  Week 14 classwork.
+Nota de agenda diaria (pauta) 1 | Miércoles 1 febrero 5 pm
+Pitch escrito nota explicativa | Martes 14 de febrero, en clase
+Borrador nota explicativa | Lunes 20 de febrero, 12 pm
+Entrega final nota explicativa | Lunes 27 de febrero, 12 pm
+Pitch escrito entrevista audio | Lunes 27 de febrero, ver en clase
+Borrador entrevista audio | Lunes 6 de marzo, 12 pm
+Entrega final entrevista audio | Lunes 13 de marzo, 12 pm
+**Deadline para cambiar tema proyecto final** | Martes 14 de marzo, ver en clase
+Pitch escrito nota de análisis | Lunes 27 de marzo, ver en clase 
+Borrador nota de análisis | Lunes 3 de abril, 12 pm
+Entrega final nota de análisis (adelantada por receso de primavera) | Viernes 7 de abril, 12 pm
+Nota de agenda diaria (pauta) 2 | Viernes 21 de abril, 5 pm
+Evaluación grupal proyecto final | Miércoles 19 de abril, día de clase extraordinario
+Plan de trabajo proyecto final | Martes 25 de abril, en clase
+Trabajo con coach web-interactivo | Martes 2 de mayo, en clase vespertina
+Borrador proyecto final | Lunes 8 de mayo
+Entrega definitiva proyecto final | Lunes 15 de mayo, ver en clase
+Demo day | Martes 16 de mayo, sala de redacción
+
+
+*Este calendario no incluye lecturas ni ejercicios semanales de investigación y datos*
+
+
+
