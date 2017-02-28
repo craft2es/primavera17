@@ -17,6 +17,7 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 
 *Nota importante: Este syllabus es producto de un esfuerzo colaborativo de todos los profesores de la clase de Reportería y Redacción Avanzada en español.  El plan de clases está sujeto a cambios. Cualquier cambio será notificado lo antes posible.*
 
+**Índice**
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
