@@ -123,7 +123,7 @@ Grupos de trabajo: Desde el primer día nos estaremos reuniendo en grupos de tra
 
 Esta clase sigue las directrices del Manual del Estudiante de la Escuela de Periodismo. El plagio o la falsificación de datos, fuentes y hechos son infracciones graves que pueden llevar a la expulsión del estudiante de la Escuela de Periodismo.  
 
-## :construction: Los trabajos
+##   :construction: Los trabajos
 
 #### Agenda diaria (pauta)
 
