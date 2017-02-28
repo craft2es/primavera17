@@ -91,7 +91,7 @@ En la tarde, la clase funcionará como una sala de redacción. Los estudiantes u
 - Crear una cuenta personal en [Github](http://www.github.com) y descargar [Github Desktop](https://desktop.github.com/) a tu computadora (si no entiendes Github puedes indagar por ti mismo o bien esperar, tendremos una sesión completa de cómo usar Github)
 - Premier, programa de edición de video
 - Programa de edición de audio (se recomienda [Hindenburg](https://hindenburg.com/))
-- Durante el curso hay un ejercicio de video, uno de foto y otro de audio, el equipo se debe separar con tiempo en la [sala de equipos:] (http://bit.ly/2l52zUk](http://bit.ly/2l52zUk).
+- Durante el curso hay un ejercicio de video, uno de foto y otro de audio, el equipo se debe separar con tiempo en la [sala de equipos](http://bit.ly/2l52zUk).
 
 ##  :vertical_traffic_light: Las reglas del juego
 
@@ -250,7 +250,7 @@ Entrega definitiva proyecto final: lunes 15 de mayo, ver en clase.
 
 <table>
   <tr>
-    <td>Entregas y retroalimentación: Todos los ejercicios deben formar parte de una página web hecha por los grupos de estudiantes. Para las entregas, los estudiantes deben llenar este [formulario de Google] (http://bit.ly/craft2espannol17form) y enviarlo. En el formulario se debe especificar claramente la tarea y el trabajo hecho por cada estudiante en el ejercicio. Todas las entregas, incluyendo los "pitches" por escrito, se deben enviar a los profesores el lunes antes de la clase, a más tardar a las 12 del mediodía. Los estudiantes recibirán su nota y los comentarios de los profesores a través de un correo electrónico.
+    <td>Entregas y retroalimentación: Todos los ejercicios deben formar parte de una página web hecha por los grupos de estudiantes. Para las entregas, los estudiantes deben llenar este formulario de Google (http://bit.ly/craft2espannol17form) y enviarlo. En el formulario se debe especificar claramente la tarea y el trabajo hecho por cada estudiante en el ejercicio. Todas las entregas, incluyendo los "pitches" por escrito, se deben enviar a los profesores el lunes antes de la clase, a más tardar a las 12 del mediodía. Los estudiantes recibirán su nota y los comentarios de los profesores a través de un correo electrónico.
 </td>
   </tr>
 </table>
@@ -318,18 +318,21 @@ Al finalizar el curso el estudiante debe haber adquirido las siguientes destreza
 - Armar grupos y elegir temas
 - Repaso: la cobertura de Agenda Diaria, relevancia de la cobertura y contexto comunitario
 - Estructura de la nota informativa: el "lede" en esteroides y la pirámide invertida para web
+
 2:00pm-4:30pm:
 - Investigación Avanzada: Factiva, Access World News, TVEYES
 - Sala de Redacción: Seleccionar Historia de Agenda Diaria #1
 - Sala de Redacción: poner en marcha el "pitch" para cobertura temática.
 
 
-- Lecturas de referencia:
-	- ["Los cinco sentidos del periodista"](https://drive.google.com/open?id=0B7HQWsnha-oQSzk0R0dQX2hTOVE), Ryszard Kapuscisnki
-	- ["El mejor oficio del mundo"](https://drive.google.com/a/journalism.cuny.edu/file/d/0B7HQWsnha-oQRDFIM0JrME15YVk/view?usp=sharing), Gabriel García Márquez
+Lecturas de referencia:
+- ["Los cinco sentidos del periodista"](https://drive.google.com/open?id=0B7HQWsnha-oQSzk0R0dQX2hTOVE), Ryszard Kapuscisnki
+- ["El mejor oficio del mundo"](https://drive.google.com/a/journalism.cuny.edu/file/d/0B7HQWsnha-oQRDFIM0JrME15YVk/view?usp=sharing), Gabriel García Márquez
 
 **Miércoles 1 de febrero**
-- Salir a la calle a reportar la Asignación 1.
+
+Salir a la calle a reportar la Asignación 1.
+
 Fecha de entrega de Asignación 1: 9pm.
 
 #### SEMANA 2
@@ -346,39 +349,43 @@ Fecha de entrega de Asignación 1: 9pm.
 - Sala de Redacción: poner en marcha el "pitch" para cobertura temática
 
 **Miércoles 8 de febrero**
-- Armar pitch del Ejercicio 1.
+
+Armar pitch del Ejercicio 1.
 
 Lecturas de referencia:
 
-- El pitch:
-	- [Lee esta lista de consejos para hacer un pitch](http://transom.org/2015/pitching-story-ideas/)
-	- [Lee la página de "submissions" de “This American Life”](https://www.thisamericanlife.org/about/submissions)
+El pitch:
+- [Lee esta lista de consejos para hacer un pitch](http://transom.org/2015/pitching-story-ideas/)
+- [Lee la página de "submissions" de “This American Life”](https://www.thisamericanlife.org/about/submissions)
 y [una lista de propuestas exitosas para la serie](https://www.thisamericanlife.org/about/submissions/sample-pitches)
-	- [Repasa la sección "¿Cómo proponer una historia?" ](https://drive.google.com/open?id=0B7HQWsnha-oQU1JSdGVlb0txTEk), del Manual de productores de Radio Ambulante
+- [Repasa la sección "¿Cómo proponer una historia?" ](https://drive.google.com/open?id=0B7HQWsnha-oQU1JSdGVlb0txTEk), del Manual de productores de Radio Ambulante
 
-- Notas explicativas:
-	- ["How Journalists Can Create Better Explainers"](http://www.poynter.org/2013/how-journalists-can-create-better-explainers/202622/), Meena Thiruvengadam
+Notas explicativas:
+- ["How Journalists Can Create Better Explainers"](http://www.poynter.org/2013/how-journalists-can-create-better-explainers/202622/), Meena Thiruvengadam
 
-- Videoperiodismo:
-	- "Producing A Feature Video Story", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
+Videoperiodismo:
+- "Producing A Feature Video Story", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
 
 #### SEMANA 3
 
 **Lunes 13 de febrero, 12:00pm**
+
 Entregar propuesta escrita del Ejercicio 1 - nota explicativa.
 
 **Martes 14 de febrero**
+
 9:30am-12:20pm:
--Lección: procesos de reportaje y selección de fuentes
--Interactivo: Introducción a Github, Markdown y repaso de HTML/CSS de semestre pasado
--Investigación Avanzada: Fuentes de datos y archivos
+- Lección: procesos de reportaje y selección de fuentes
+- Interactivo: Introducción a Github, Markdown y repaso de HTML/CSS de semestre pasado
+- Investigación Avanzada: Fuentes de datos y archivos
+
 2:00pm-4:30pm:
--Discusión en clase: revisión de "pitch" para nota explicativa
--Taller de destrezas multimedios: grabación de video social
--Sala de redacción: preproducción video
+- Discusión en clase: revisión de "pitch" para nota explicativa
+- Taller de destrezas multimedios: grabación de video social
+- Sala de redacción: preproducción video
 
 Lecturas:
--"Field Production", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
+- "Field Production", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
 
 **Miércoles 15 de febrero**
 **No hay día de reporteo- las clases siguen el itinerario de los lunes**
@@ -386,72 +393,87 @@ Lecturas:
 #### SEMANA 4
 
 **Lunes 20 de febrero, 12:00pm**
+
 Entregar primera versión del Ejercicio 1- nota explicativa (texto y video editado- sin gráficas ni texto)
 
 **Martes 21 de febrero**
+
 9:30am-12:20pm:
--Lección: la voz del periodista/la comunidad a la que le informa
--Discusión: Primera versión de Ejercicio 1
+- Lección: la voz del periodista/la comunidad a la que le informa
+- Discusión: Primera versión de Ejercicio 1
 2:00pm-4:30pm:
--Taller de destrezas multimedios: gráficas y post-producción video social
--Sala de redacción: Trabajo con el video social
+- Taller de destrezas multimedios: gráficas y post-producción video social
+- Sala de redacción: Trabajo con el video social
 
 Lectura:
--"Post-production", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
+- "Post-production", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
 
 **Miércoles 22 de febrero**
--Trabajo con la versión final del video social
+
+Trabajo con la versión final del video social
 
 #### SEMANA 5
 
 **Lunes 27 de febrero**
+
 Entregar borrador final del Ejercicio #1- nota explicativa.
 
 **Martes 28 de febrero**
+
 9:30am-12:20pm:
--Lección: La entrevista
--Investigación Avanzada: Búsqueda de personas
+- Lección: La entrevista
+- Investigación Avanzada: Búsqueda de personas
+
 2:00pm-4:30pm:
--Taller de destrezas multimedios: grabación de audio y producción de podcasts
--Sala de Redacción: preparación de "pitch" Ejercicio #2- Entrevista
+- Taller de destrezas multimedios: grabación de audio y producción de podcasts
+- Sala de Redacción: preparación de "pitch" Ejercicio #2- Entrevista
 
 Lecturas:
--["El mejor libro jamás escrito sobre entrevistas"](https://drive.google.com/open?id=0B7HQWsnha-oQTGwzdVFBVGJYSTA), Cap. 1, Francesc Burguet
--Escucha el episodio de Radio Ambulante ["Miedo"](http://radioambulante.org/transcripcion/transcripcion-miedo)
--["How To Make Radio: An Illustrated Guide"](https://drive.google.com/open?id=0B7HQWsnha-oQZWh4OVNtXzEzdzQ), Jessica Abel & Ira Glass
+- ["El mejor libro jamás escrito sobre entrevistas"](https://drive.google.com/open?id=0B7HQWsnha-oQTGwzdVFBVGJYSTA), Cap. 1, Francesc Burguet
+- Escucha el episodio de Radio Ambulante ["Miedo"](http://radioambulante.org/transcripcion/transcripcion-miedo)
+- ["How To Make Radio: An Illustrated Guide"](https://drive.google.com/open?id=0B7HQWsnha-oQZWh4OVNtXzEzdzQ), Jessica Abel & Ira Glass
 
 **Miércoles 1 de marzo**
+
 Reporteo preliminar para armar "pitch" de Ejercicio 2
 
 #### SEMANA 6
 
 **Lunes 6 de marzo**
+
 Entregar propuesta escrita del Ejercicio 2 - la entrevista.
 
 **Martes 7 de marzo**
+
 9:30am-12:20pm:
--Lección: Manejo de fuentes
--Data para Interactivo: Números para periodistas y Excel
+- Lección: Manejo de fuentes
+- Data para Interactivo: Números para periodistas y Excel
+
 2:00pm-4:30pm:
--Sala de Redacción: Discusión del "Pitch"
+- Sala de Redacción: Discusión del "Pitch"
 
 **Miércoles 8 de marzo**
--Salir a reportar y producir Tarea #2
+
+- Salir a reportar y producir Tarea 2
 
 #### SEMANA 7
 
 **Lunes 13 de marzo**
+
 Entregar primer borrador del Ejercicio 2 - la entrevista.
 
 **Martes 14 de marzo**
+
 9:30am-12:20pm:
--Multimedios: repaso de destrezas narrativas para audio
--Sesiones individuales de edición: Ejercicio 2
--Investigación Avanzada: reporteo con datos del censo
+- Multimedios: repaso de destrezas narrativas para audio
+- Sesiones individuales de edición: Ejercicio 2
+- Investigación Avanzada: reporteo con datos del censo
+
 2:00pm-4:30pm:
--Taller: Limpiar datos con Open Refine. Requisitos: [descargar Open Refine](http://openrefine.org/download.html).
+- Taller: Limpiar datos con Open Refine. Requisitos: [descargar Open Refine](http://openrefine.org/download.html).
 
 **Miércoles 15 de marzo**
+
 Trabajo con la versión final del Ejercicio 2
 
 #### SEMANA 8
@@ -464,70 +486,86 @@ Trabajo con la versión final del Ejercicio 2
 </table>
 
 **Lunes 20 de marzo**
-Entregar versión final del Ejercicio 2- la entrevista.
+
+Entregar versión final del Ejercicio 2 - la entrevista.
 
 **Martes 21 de marzo**
+
 9:30am-12:20pm:
--Lección: la nota de análisis
--Técnicas para el acercamiento investigativo
--Sala de Redacción: poner en marcha el "pitch" para Ejercicio 3, Nota de Análisis
+- Lección: la nota de análisis
+- Técnicas para el acercamiento investigativo
+- Sala de Redacción: poner en marcha el "pitch" para Ejercicio 3, Nota de Análisis
+
 2:00pm-4:30pm:
--Taller: Investigando historias en la data con SQLite. Requisitos: [descargar SQLite](https://github.com/miguelpaz/install-SQLite) y tener Firefox instalado.
+- Taller: Investigando historias en la data con SQLite. Requisitos: [descargar SQLite](https://github.com/miguelpaz/install-SQLite) y tener Firefox instalado.
 
 Lecturas:
--[Análisis](https://drive.google.com/open?id=0B7HQWsnha-oQMC0tMnFtNDctUjg), en El estilo del periodista, Alex Grijelmo
--[La violencia contra las mujeres (no) es normal](http://www.animalpolitico.com/tag/la-violencia-no-es-normal/), serie de Animal Político
--[Nos equivocamos en todo](http://www.revistaanfibia.com/ensayo/nos-equivocamos-en-todo/), en Revista Anfibia
+
+- [Análisis](https://drive.google.com/open?id=0B7HQWsnha-oQMC0tMnFtNDctUjg), en El estilo del periodista, Alex Grijelmo
+- [La violencia contra las mujeres (no) es normal](http://www.animalpolitico.com/tag/la-violencia-no-es-normal/), serie de Animal Político
+- [Nos equivocamos en todo](http://www.revistaanfibia.com/ensayo/nos-equivocamos-en-todo/), en Revista Anfibia
 
 **Miércoles 22 de marzo**
+
 Reporteo inicial para armar pitch de Ejercicio 3
 
 #### SEMANA 9
 
 **Lunes 27 de marzo**
+
 Entregar pitch escrito del Ejercicio 3 - análisis.
 
 **Martes 28 de marzo**
-9:30am-12:20pm:
--"Pitch" en clase: Ejercicio 3 - nota de análisis
--Manejo, interpretación y corroboración de información: una guía
--Investigación Avanzada: compañías, negocios y organizaciones sin fines de lucro
-**Horario extraordinario**
-18:30pm-21:30pm
--Taller de interactivo 1: HTML, CSS, Jquery, Javascript
 
-**miércoles 29 de marzo**
+9:30am-12:20pm:
+- "Pitch" en clase: Ejercicio 3 - nota de análisis
+- Manejo, interpretación y corroboración de información: una guía
+- Investigación Avanzada: compañías, negocios y organizaciones sin fines de lucro
+
+**Horario extraordinario**
+
+18:30pm-21:30pm
+- Taller de interactivo 1: HTML, CSS, Jquery, Javascript
+
+**Miércoles 29 de marzo**
+
 Salir a reportar Ejercicio 3
 
 Lectura de referencia y proyectos digitales a revisar:
--"[La navaja suiza del reportero](https://drive.google.com/open?id=0B7HQWsnha-oQQl92a1dLSGN1X2s)", Manual de Investigación de Ojo Público.
--[SND: Best of digital design 2016](http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/)
--[OJA Awards 2016](https://journalists.org/awards/2016-awards/)
+- "[La navaja suiza del reportero](https://drive.google.com/open?id=0B7HQWsnha-oQQl92a1dLSGN1X2s)", Manual de Investigación de Ojo Público.
+- [SND: Best of digital design 2016](http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/)
+- [OJA Awards 2016](https://journalists.org/awards/2016-awards/)
 
 #### SEMANA 10
 
-**lunes 3 de abril 12:00pm**
+**Lunes 3 de abril 12:00pm**
+
 Entregar primer borrador Ejercicio 3 - nota de análisis.
 
 **Martes 4 de abril**
+
 9:30am-12:20pm:
--Lección: crónica (escenas y arco narrativo)
--Edición para redactores
--Sala de Redacción: revisión de Ejercicio 3
+- Lección: crónica (escenas y arco narrativo)
+- Edición para redactores
+- Sala de Redacción: revisión de Ejercicio 3
+
 **Horario extraordinario**
+
 18:30pm-21:30pm
--Taller de interactivo 2: HTML, CSS, Jquery, Javascript
+- Taller de interactivo 2: HTML, CSS, Jquery, Javascript
 
 Lecturas:
--"[Crónica, ornitorrinco de la prosa](http://www.lanacion.com.ar/773985-la-cronica-ornitorrinco-de-la-prosa)", Juan Villoro
--"Chapter 13, Evan Ratliff, Atavist", en el libro “Editors Talk About Editing”
+- "[Crónica, ornitorrinco de la prosa](http://www.lanacion.com.ar/773985-la-cronica-ornitorrinco-de-la-prosa)", Juan Villoro
+- "Chapter 13, Evan Ratliff, Atavist", en el libro “Editors Talk About Editing”
 
 **Miércoles 5 de abril**
+
 Trabajo de revisión del Ejercicio 3
 
 **Viernes 7 de abril**
+
 Entregar versión final del Ejercicio 3 - nota de análisis.
-(ENTREGA ADELANTADA POR EL RECESO DE PRIMAVERA)
+*(ENTREGA ADELANTADA POR EL RECESO DE PRIMAVERA)*
 
 <table>
   <tr>
@@ -553,16 +591,18 @@ Lecturas:
 -"[Prison Kids](https://fusion.net/series/prison-kids/)", proyecto de Fusion
 
 **Viernes 21 de abril, 5pm**
-Entregar Asignación #2
+Entregar Asignación 2
 
 #### SEMANA 12
 
 **Martes 25 de abril**
+
 9:30am-12:20pm:
--Evaluación y seguimiento: proyectos grupales MM
--Desarrollo de plan de trabajo para finalizar proyecto final MM
+- Evaluación y seguimiento: proyectos grupales MM
+- Desarrollo de plan de trabajo para finalizar proyecto final MM
+
 2:00pm-4:30pm:
--Sala de Redacción
+- Sala de Redacción
 
 **Miércoles 26 de abril**
 Salir a reportar para elementos adicionales de Proyecto Final MM
