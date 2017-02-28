@@ -20,47 +20,48 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 
 **Índice**
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Descripción del curso](#descripcin-del-curso)
-		- [Cómo funciona la clase](#cmo-funciona-la-clase)
-		- [Requisitos Técnicos](#requisitos-tcnicos)
-- [Las reglas del juego](#las-reglas-del-juego)
-		- [En clase:](#en-clase)
-		- [En cada trabajo:](#en-cada-trabajo)
-		- [Código de honor](#cdigo-de-honor)
-- [Los trabajos](#los-trabajos)
-		- [Agenda diaria (pauta)](#agenda-diaria-pauta)
-		- [Historias en profundidad](#historias-en-profundidad)
-		- [Ejes temáticos](#ejes-temticos)
-		- [Trabajos interactivos y multimedia.](#trabajos-interactivos-y-multimedia)
-		- [El proceso](#el-proceso)
-		- [Requisitos de entrega:](#requisitos-de-entrega)
-- [Rúbrica](#rbrica)
-- [Objetivos del curso:](#objetivos-del-curso)
-- [Calendario](#calendario)
-		- [Semana 1](#semana-1)
-		- [Semana 2](#semana-2)
-		- [Semana 3](#semana-3)
-		- [Semana 4](#semana-4)
-		- [Semana 5](#semana-5)
-		- [Semana 6](#semana-6)
-		- [Semana 7](#semana-7)
-		- [Semana 8](#semana-8)
-		- [Semana 9](#semana-9)
-		- [Semana 10](#semana-10)
-		- [Semana 11](#semana-11)
-		- [Semana 12](#semana-12)
-		- [Semana 13](#semana-13)
-		- [Semana 14](#semana-14)
-		- [Semana 15](#semana-15)
-- [Editores y Mentores](#editores-y-mentores)
-- [Lecturas](#lecturas)
+- [Craft II en Español: Periodismo y redacción avanzada](#craft-ii-en-espaol-periodismo-y-redaccin-avanzada)
+	- [:mag_right: Descripción del curso](#magright-descripcin-del-curso)
+			- [Cómo funciona la clase](#cmo-funciona-la-clase)
+			- [Requisitos Técnicos](#requisitos-tcnicos)
+	- [:vertical_traffic_light: Las reglas del juego](#verticaltrafficlight-las-reglas-del-juego)
+			- [En clase](#en-clase)
+			- [En cada trabajo](#en-cada-trabajo)
+			- [Código de honor](#cdigo-de-honor)
+	- [:construction: Los trabajos](#construction-los-trabajos)
+			- [Agenda diaria (pauta)](#agenda-diaria-pauta)
+			- [Historias en profundidad](#historias-en-profundidad)
+			- [Ejes temáticos](#ejes-temticos)
+			- [Trabajos interactivos y multimedia](#trabajos-interactivos-y-multimedia)
+			- [El proceso](#el-proceso)
+			- [:heavy_check_mark: Requisitos de entrega:](#heavycheckmark-requisitos-de-entrega)
+	- [:key: Rúbrica](#key-rbrica)
+	- [:mortar_board: Objetivos del curso:](#mortarboard-objetivos-del-curso)
+	- [:calendar: Calendario](#calendar-calendario)
+			- [Semana 1](#semana-1)
+			- [SEMANA 2](#semana-2)
+			- [SEMANA 3](#semana-3)
+			- [SEMANA 4](#semana-4)
+			- [SEMANA 5](#semana-5)
+			- [SEMANA 6](#semana-6)
+			- [SEMANA 7](#semana-7)
+			- [SEMANA 8](#semana-8)
+			- [SEMANA 9](#semana-9)
+			- [SEMANA 10](#semana-10)
+			- [SEMANA 11](#semana-11)
+			- [SEMANA 12](#semana-12)
+			- [SEMANA 13](#semana-13)
+			- [SEMANA 14](#semana-14)
+			- [SEMANA 15](#semana-15)
+	- [:muscle: Editores y Mentores](#muscle-editores-y-mentores)
+	- [:books: Lecturas](#books-lecturas)
 
 <!-- /TOC -->
 
 
-## Descripción del curso
+##  :mag_right: Descripción del curso
 En este curso de 6 créditos trabajaremos historias de un nivel periodístico avanzado.  En esencia, se trata de hacer un trabajo que sea aún más desarrollado que las notas y proyectos de Craft I.  El formato de la clase es de taller.  Discutiremos diferentes formatos y técnicas de reportajes.  También habrá lecciones y conferencias, pero los trabajos asignados se traerán a clase para discutirlos en grupo.
 
 Hay cuatro destrezas básicas que serán como el aire que respiraremos este semestre (¡así de esenciales son!): investigación y reportaje, redacción, producción multimedios y producción interactiva.  Casi todas las semanas habrá una nueva asignación que consistirá en un ejercicio práctico que ponga a prueba esas destrezas.  Durante el semestre habrá que hacer tres ejercicios avanzados de reportajes en profundidad.   Estas tareas comprenderán una serie de géneros, formatos y plataformas. Se trata de familiarizarse con diferentes tipos de acercamientos periodísticos como el reportaje explicativo, la entrevista, la nota de análisis y la crónica.  
@@ -92,7 +93,7 @@ En la tarde, la clase funcionará como una sala de redacción. Los estudiantes u
 - Programa de edición de audio (se recomienda [Hindenburg](https://hindenburg.com/))
 - Durante el curso hay un ejercicio de video, uno de foto y otro de audio, el equipo se debe separar con tiempo en la [sala de equipos:] (http://bit.ly/2l52zUk](http://bit.ly/2l52zUk).
 
-## Las reglas del juego
+##  :vertical_traffic_light: Las reglas del juego
 
 El éxito de este taller depende del nivel de compromiso de cada estudiante. Es decir, le toca a cada miembro del grupo cumplir con su trabajo y las lecturas asignadas, además de estar receptivo para aportar al trabajo de los compañeros y compañeras.
 
@@ -104,7 +105,7 @@ Grupos de trabajo: Desde el primer día nos estaremos reuniendo en grupos de tra
   </tr>
 </table>
 
-#### En clase:
+#### En clase
 
 - Cumplir con las fechas de entrega. Esto es de vital importancia, no solo para la clase sino en la carrera profesional de cualquier periodista, porque las fechas de entrega son sagradas.  No cumplir con ellas tendrá una penalidad del 25% de la nota del ejercicio.  
 - Estar preparado. Hay que llegar a clase habiendo hecho las lecturas o cualquier otro material asignado.
@@ -112,7 +113,7 @@ Grupos de trabajo: Desde el primer día nos estaremos reuniendo en grupos de tra
 - Colaboración. El curso depende de un esfuerzo colaborativo muy estrecho entre los estudiantes.  Es necesario que cada estudiante no solo cumpla con su parte, sino que también complemente el trabajo de sus compañeros y compañeras.
 - Asistir regularmente y ser puntual. La clase se reúne 15 veces durante el semestre. El tiempo es limitado y hay mucho material que cubrir. Las ausencias sin excusa afectarán la nota final del curso. De igual manera, dos tardanzas equivalen a una ausencia. Es importante que los estudiantes se comuniquen con tiempo con el profesor Trelles en caso de que surja una emergencia.
 
-#### En cada trabajo:
+#### En cada trabajo
 
 - El valor del trabajo periodístico depende de la credibilidad. Por eso los trabajos de la clase deben contar con una verificación rigurosa de los datos que se presentan. Esa es la base de la profesión. Una historia con información errónea puede llevar a una nota de F.  
 - Todos los trabajos se deben entregar en español (el proyecto final será en español e inglés), y se espera un uso correcto del idioma. Seguiremos las guías del Manual de Estilo de la AP en español. Cada pieza que se entregue para esta clase debe ser clara, precisa y correcta, sin errores ortográficos y gramaticales.  La corrección de estilo forma parte de la nota de cada trabajo.
@@ -122,7 +123,7 @@ Grupos de trabajo: Desde el primer día nos estaremos reuniendo en grupos de tra
 
 Esta clase sigue las directrices del Manual del Estudiante de la Escuela de Periodismo. El plagio o la falsificación de datos, fuentes y hechos son infracciones graves que pueden llevar a la expulsión del estudiante de la Escuela de Periodismo.  
 
-## Los trabajos
+## :construction: Los trabajos
 
 #### Agenda diaria (pauta)
 
@@ -151,7 +152,7 @@ Cabe la posibilidad de que algunos trabajos se publiquen en [CityLab Latino](htt
   </tr>
 </table>
 
-#### Trabajos interactivos y multimedia.
+#### Trabajos interactivos y multimedia
 
 Todas las tareas requerirán destrezas avanzadas de reportería y redacción. Buscamos textos que brillen por su originalidad. Pero no solo escribiremos estas historias. También las haremos en video, en audio, a través de fotos y de elementos interactivos para la web, con mapas, gráficas y otro tipo de acciones interactivas.
 
@@ -185,56 +186,65 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
   </tr>
 </table>
 
-#### Requisitos de entrega:
+####  :heavy_check_mark: Requisitos de entrega:
 
-
-###### Nota de Agenda Diaria (pauta) 1
+**Nota de Agenda Diaria (pauta) 1**
 
 Solo texto - 800 palabras.
 
-Entrega: miércoles 1 de febrero, 5pm
+Entrega: miércoles 1 de febrero, 5pm.
 
+**Nota de Agenda Diaria (pauta) 2**
 
-##### Nota de Agenda Diaria (pauta) 2
+Texto (800 palabras) y cinco fotos.
 
-Texto (800 palabras) y cinco fotos
+Entrega: viernes 21 de abril, 5pm.
 
-Entrega: viernes 21 de abril, 5pm
-
-##### Tarea 1 Nota Explicativa
+**Tarea 1 Nota Explicativa**
 
 Texto - 500 palabras, con video - 2 minutos 30 segundos max.
 
-Pitch: martes 14 de febrero, en clase
+Pitch: martes 14 de febrero, en clase.
 
-Primer borrador: lunes 20 de febrero, 12:00 pm
+Primer borrador: lunes 20 de febrero, 12:00 pm.
 
-Entrega final: lunes 27 de febrero, 12:00 pm
+Entrega final: lunes 27 de febrero, 12:00 pm.
 
-- Tarea 2 Entrevista
+**Tarea 2 Entrevista**
 
-Audio - hasta cinco minutos, con texto - 200 palabras, gráfica interactiva
+Audio - hasta cinco minutos, con texto - 200 palabras, gráfica interactiva.
 
-Pitch: lunes 27 de febrero, en clase
-	- Primer borrador: lunes 6 de marzo, 12:00 pm
-	- Entrega final: lunes 13 de marzo, 12:00 pm
+Pitch: lunes 27 de febrero, en clase.
 
+Primer borrador: lunes 6 de marzo, 12:00 pm.
 
-- Tarea 3 Nota de análisis
-	- Texto - 1,000 palabras, elemento interactivo avanzado (mapa, gráficos, línea de tiempo y/u otros)
-	- Pitch: lunes 21 de marzo, en clase
-	- Primer borrador: lunes 27 de marzo, 12:00 PM
-	- Entrega final: lunes 3 de abril, 12:00pm
+Entrega final: lunes 13 de marzo, 12:00 pm.
 
+**Tarea 3 Nota de análisis**
 
-- Proyecto final
+Texto - 1,000 palabras, elemento interactivo avanzado (mapa, gráficos, línea de tiempo y/u otros).
+
+Pitch: lunes 21 de marzo, en clase.
+
+Primer borrador: lunes 27 de marzo, 12:00 PM.
+
+Entrega final: lunes 3 de abril, 12:00pm.
+
+**Proyecto final**
+
 Cada tarea formará parte del proyecto final, que presentará una crónica interactiva y transmedia de nivel avanzado.
-	- Evaluación grupal proyecto final: miércoles 19 de abril, día de clase extraordinario.
-	- Plan de trabajo proyecto final: martes 25 de abril, en clase
-	- Trabajo con coach web-interactivo: martes 2 de mayo, en clase vespertina
-	- Borrador proyecto final: lunes 8 de mayo
-	- Entrega definitiva proyecto final: lunes 15 de mayo, ver en clase
-- Demo day 🎉: Martes 16 de mayo en sala de redacción de la escuela
+
+Evaluación grupal proyecto final: miércoles 19 de abril, día de clase extraordinario.
+
+Plan de trabajo proyecto final: martes 25 de abril, en clase.
+
+Trabajo con coach web-interactivo: martes 2 de mayo, en clase vespertina.
+
+Borrador proyecto final: lunes 8 de mayo.
+
+Entrega definitiva proyecto final: lunes 15 de mayo, ver en clase.
+
+🎉:checkered_flag: Demo day: Martes 16 de mayo en sala de redacción de la escuela.
 
 ¿Demasiada información? [Revisa e imprime el calendario de entregas.](https://github.com/craft2es/craft2es17/blob/master/entregas.md)
 
@@ -245,8 +255,7 @@ Cada tarea formará parte del proyecto final, que presentará una crónica inter
   </tr>
 </table>
 
-
-## Rúbrica
+## :key: Rúbrica
 
 Para las asignaciones y ejercicios:
 
@@ -274,12 +283,12 @@ F: El trabajo ha fracasado en casi todos los niveles.
 
 La nota final del curso se calcula de esta manera:
 
-70% le corresponde a los ejercicios y asignaciones
-10% a los ejercicios de investigación en clase
-10% asistencia y participación en clase
-10% otros ejercicios prácticos en clase
+- 70% le corresponde a los ejercicios y asignaciones
+- 10% a los ejercicios de investigación en clase
+- 10% asistencia y participación en clase
+- 10% otros ejercicios prácticos en clase
 
-## Objetivos del curso:
+## :mortar_board: Objetivos del curso:
 
 Al finalizar el curso el estudiante debe haber adquirido las siguientes destrezas y conocimientos a nivel avanzado:
 
@@ -296,7 +305,7 @@ Al finalizar el curso el estudiante debe haber adquirido las siguientes destreza
 - Escribir titulares memorables.
 - Reconocer la importancia de desarrollar una voz propia.
 
-## Calendario
+##  :calendar: Calendario
 
 #### Semana 1
 
@@ -599,13 +608,13 @@ Entregar versión final del proyecto en grupo MM.
 2:00pm-4:30pm:
 Retrospectiva y ¡Fiesta de la clase!
 
-## Editores y Mentores
+##  :muscle: Editores y Mentores
 Ricardo Reif, editor en español
 Contacto: [rreif@hotmail.com](mailto:rreif@hotmail.com)
 Disponibilidad: domingo, lunes, martes y viernes 5:30pm-7:30pm, sábados de 2:00pm-4:00pm. Salón 432.
 En este enlace puedes encontrar información de horarios y cómo separar tiempo con los mentores y "coaches": [http://bit.ly/2cfSdhL](http://bit.ly/2cfSdhL)
 
-## Lecturas
+##  :books: Lecturas
 Disponibles en la Carpeta de Lecturas de la clase.
 "Los cinco sentidos del periodista", Ryszard Kapuscinski
 "El estilo del periodista", Alex Grijelmo
