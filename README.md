@@ -347,6 +347,8 @@ Fecha de entrega de Asignación 1: 9pm.
 
 [Subir](##calendar-calendario)
 
+---
+
 #### SEMANA 2
 
 **Martes 7 de febrero**
@@ -380,6 +382,8 @@ Videoperiodismo:
 
 [Subir](##calendar-calendario)
 
+---
+
 #### SEMANA 3
 
 **Lunes 13 de febrero, 12:00pm**
@@ -406,6 +410,8 @@ Lecturas:
 
 [Subir](##calendar-calendario)
 
+---
+
 #### SEMANA 4
 
 **Lunes 20 de febrero, 12:00pm**
@@ -430,6 +436,8 @@ Lectura:
 Trabajo con la versión final del video social
 
 [Subir](##calendar-calendario)
+
+---
 
 #### SEMANA 5
 
@@ -458,6 +466,8 @@ Reporteo preliminar para armar "pitch" de Ejercicio 2
 
 [Subir](##calendar-calendario)
 
+---
+
 #### SEMANA 6
 
 **Lunes 6 de marzo**
@@ -478,6 +488,8 @@ Entregar propuesta escrita del Ejercicio 2 - la entrevista.
 Salir a reportar y producir Tarea 2
 
 [Subir](##calendar-calendario)
+
+---
 
 #### SEMANA 7
 
@@ -500,6 +512,8 @@ Entregar primer borrador del Ejercicio 2 - la entrevista.
 Trabajo con la versión final del Ejercicio 2
 
 [Subir](##calendar-calendario)
+
+---
 
 #### SEMANA 8
 
@@ -535,6 +549,8 @@ Reporteo inicial para armar pitch de Ejercicio 3
 
 [Subir](##calendar-calendario)
 
+---
+
 #### SEMANA 9
 
 **Lunes 27 de marzo**
@@ -563,6 +579,8 @@ Lectura de referencia y proyectos digitales a revisar:
 - [OJA Awards 2016](https://journalists.org/awards/2016-awards/)
 
 [Subir](##calendar-calendario)
+
+---
 
 #### SEMANA 10
 
@@ -604,6 +622,8 @@ Entregar versión final del Ejercicio 3 - nota de análisis.
 
 [Subir](##calendar-calendario)
 
+---
+
 #### SEMANA 11
 
 **Miércoles 19 de abril. Reemplaza el martes de receso. Se trata de un día regular de clase, como si fuera martes**
@@ -629,6 +649,8 @@ Entregar Asignación 2
 
 [Subir](##calendar-calendario)
 
+---
+
 #### SEMANA 12
 
 **Martes 25 de abril**
@@ -645,6 +667,8 @@ Entregar Asignación 2
 Salir a reportar para elementos adicionales de Proyecto Final MM
 
 [Subir](##calendar-calendario)
+
+---
 
 #### SEMANA 13
 
@@ -667,6 +691,8 @@ Salir a reportar para elementos adicionales de Proyecto Final MM
 
 [Subir](##calendar-calendario)
 
+---
+
 #### SEMANA 14
 
 **Lunes 8 de mayo:**
@@ -687,6 +713,8 @@ Entrega primer borrador de proyecto final
 Ajustes finales-proyecto final MM
 
 [Subir](##calendar-calendario)
+
+---
 
 #### SEMANA 15
 
