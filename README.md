@@ -1,4 +1,4 @@
-# Craft II en Español: Periodismo y redacción avanzada
+#Craft II en Español: Periodismo y redacción avanzada
 Programa Bilingüe de la Maestría de Periodismo de CUNY
 
 **Código:** Journ 72000  
@@ -7,6 +7,7 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 **Extensión:** 15 semanas (martes 31 de enero al martes 16 de mayo), [calendario semanal](https://www.journalism.cuny.edu/wp-content/blogs.dir/1/files/2017/01/Spring2017Schedule1.25.17.pdf).   
 **Salón/Horario:** Salón 330, Martes 9:30 am - 12:20 pm, 2:00 pm - 4:20 pm  
 **Profesores:** [Miguel Paz](https://www.journalism.cuny.edu/cunyj_profiles/paz-miguel-distinguished-lecturer-data-journalism-and-multimedia-storytelling/), [Luis Trelles](http://radioambulante.org/en/producer/luis-trelles), Cristina Maldonado.
+
 **Canales de comunicación:**
 - Correo electrónico: para preguntas y comentarios.
 [Luis Trelles](mailto:luis.trelles@journalism.cuny.edu), [Miguel Paz](mailto:miguel.paz@journalism.cuny.edu), [Cristina Maldonado.](mailto:cristina.maldonado@journalism.cuny.edu)
@@ -16,47 +17,45 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 
 *Nota importante: Este syllabus es producto de un esfuerzo colaborativo de todos los profesores de la clase de Reportería y Redacción Avanzada en español.  El plan de clases está sujeto a cambios. Cualquier cambio será notificado lo antes posible.*
 
-# **
 
-## ÍNDICE
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-Descripción del curso
-    Cómo funciona la clase
-    Requisitos Técnicos
-Las reglas del juego
-    En clase
-    En cada trabajo
-    Código de honor
-Los trabajos
-    Agenda Diaria (pauta)
-    Historias en profundidad    
-    Ejes temáticos
-    Trabajos interactivos y multimedios
-    El proceso
-    Requisitos de entrega
-    Proyecto final
-Rúbrica
-    Para asignaciones y ejercicios
-    Nota final del curso
-Objetivos del curso
-Calendario
-    Semana 1
-    Semana 2
-    Semana 3
-    Semana 4
-    Semana 5
-    Semana 6
-    Semana 7
-    Semana 8
-    Semana 9
-    Semana 10
-    Semana 11
-    Semana 12
-    Semana 13
-    Semana 14
-    Semana 15
-Editores y Mentores
-Lecturas
+- [Descripción del curso](#descripcin-del-curso)
+		- [Cómo funciona la clase](#cmo-funciona-la-clase)
+		- [Requisitos Técnicos](#requisitos-tcnicos)
+- [Las reglas del juego](#las-reglas-del-juego)
+		- [En clase:](#en-clase)
+		- [En cada trabajo:](#en-cada-trabajo)
+		- [Código de honor](#cdigo-de-honor)
+- [Los trabajos](#los-trabajos)
+		- [Agenda diaria (pauta)](#agenda-diaria-pauta)
+		- [Historias en profundidad](#historias-en-profundidad)
+		- [Ejes temáticos](#ejes-temticos)
+		- [Trabajos interactivos y multimedia.](#trabajos-interactivos-y-multimedia)
+		- [El proceso.](#el-proceso)
+		- [Requisitos de entrega:](#requisitos-de-entrega)
+- [Rúbrica](#rbrica)
+- [Objetivos del curso:](#objetivos-del-curso)
+- [Calendario](#calendario)
+		- [Semana 1](#semana-1)
+		- [SEMANA 2](#semana-2)
+		- [SEMANA 3](#semana-3)
+		- [SEMANA 4](#semana-4)
+		- [SEMANA 5](#semana-5)
+		- [SEMANA 6](#semana-6)
+		- [SEMANA 7](#semana-7)
+		- [SEMANA 8](#semana-8)
+		- [SEMANA 9](#semana-9)
+		- [SEMANA 10](#semana-10)
+		- [SEMANA 11](#semana-11)
+		- [SEMANA 12](#semana-12)
+		- [SEMANA 13](#semana-13)
+		- [SEMANA 14](#semana-14)
+		- [SEMANA 15](#semana-15)
+- [Editores y Mentores](#editores-y-mentores)
+- [Lecturas](#lecturas)
+
+<!-- /TOC -->
 
 
 ## Descripción del curso
@@ -119,11 +118,11 @@ Esta clase sigue las directrices del Manual del Estudiante de la Escuela de Peri
 
 ## Los trabajos
 
-#### Agenda diaria (pauta) 
+#### Agenda diaria (pauta)
 Durante el semestre tendremos dos ejercicios de noticia del momento. Uno será una nota de texto y el segundo debe incluir un elemento multimedios (video o serie de fotos). Estas asignaciones se deberán hacer en el área de cobertura geográfica asignada en el primer semestre. Utilizaremos el "Daybook" de la AP en Nueva York para identificar historias. Los ejercicios de Agenda Diaria tienen una fecha de entrega muy estricta. El primero se debe entregar en 24 horas y el segundo en 48.  
 
 #### Historias en profundidad
-Durante el semestre exploraremos varios géneros y formatos: notas explicativas, entrevistas, análisis y crónica. 
+Durante el semestre exploraremos varios géneros y formatos: notas explicativas, entrevistas, análisis y crónica.
 
 #### Ejes temáticos
 Desde la primera semana los grupos deberán escoger un tema que investigarán durante el resto del semestre:
@@ -142,7 +141,7 @@ Cabe la posibilidad de que algunos trabajos se publiquen en [CityLab Latino](htt
   </tr>
 </table>
 
-#### Trabajos interactivos y multimedia. 
+#### Trabajos interactivos y multimedia.
 Todas las tareas requerirán destrezas avanzadas de reportería y redacción. Buscamos textos que brillen por su originalidad. Pero no solo escribiremos estas historias. También las haremos en video, en audio, a través de fotos y de elementos interactivos para la web, con mapas, gráficas y otro tipo de acciones interactivas.
 
 <table>
@@ -152,7 +151,7 @@ Todas las tareas requerirán destrezas avanzadas de reportería y redacción. Bu
   </tr>
 </table>
 
-#### El proceso. 
+#### El proceso.
 Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos:
 
 1. Entregar la propuesta por escrito. El "pitch" escrito se debe entregar a través [del formulario de la clase en Google Forms](http://bit.ly/craft2espannol17form) con toda la información requerida. El estudiante recibirá retroalimentación individualizada y grupal para afinar la propuesta escrita antes de salir a reportar.  
@@ -202,7 +201,7 @@ Pitch: lunes 21 de marzo, en clase
 Primer borrador: lunes 27 de marzo, 12:00 PM
 Entrega final: lunes 3 de abril, 12:00pm
 
-Proyecto final 
+Proyecto final
 Cada tarea formará parte del proyecto final, que presentará una crónica interactiva y transmedia de nivel avanzado.
 Evaluación grupal proyecto final: miércoles 19 de abril, día de clase extraordinario
 Plan de trabajo proyecto final: martes 25 de abril, en clase
