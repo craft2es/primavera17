@@ -192,19 +192,19 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
 
 ####  :heavy_check_mark: Requisitos de entrega:
 
-- Nota de Agenda Diaria (pauta) 1
+- **Nota de Agenda Diaria (pauta) 1**
 
 Solo texto - 800 palabras.
 
 Entrega: miércoles 1 de febrero, 5pm.
 
-- Nota de Agenda Diaria (pauta) 2
+- **Nota de Agenda Diaria (pauta) 2**
 
 Texto (800 palabras) y cinco fotos.
 
 Entrega: viernes 21 de abril, 5pm.
 
-- Tarea 1 Nota Explicativa
+- **Tarea 1 Nota Explicativa**
 
 Texto - 500 palabras, con video - 2 minutos 30 segundos max.
 
@@ -214,7 +214,7 @@ Primer borrador: lunes 20 de febrero, 12:00 pm.
 
 Entrega final: lunes 27 de febrero, 12:00 pm.
 
-- Tarea 2 Entrevista
+- **Tarea 2 Entrevista**
 
 Audio - hasta cinco minutos, con texto - 200 palabras, gráfica interactiva.
 
@@ -224,7 +224,7 @@ Primer borrador: lunes 6 de marzo, 12:00 pm.
 
 Entrega final: lunes 13 de marzo, 12:00 pm.
 
-- Tarea 3 Nota de análisis
+- **Tarea 3 Nota de análisis**
 
 Texto - 1,000 palabras, elemento interactivo avanzado (mapa, gráficos, línea de tiempo y/u otros).
 
@@ -234,7 +234,7 @@ Primer borrador: lunes 27 de marzo, 12:00 PM.
 
 Entrega final: lunes 3 de abril, 12:00pm.
 
-- Proyecto final
+- **Proyecto final**
 
 Cada tarea formará parte del proyecto final, que presentará una crónica interactiva y transmedia de nivel avanzado.
 
@@ -248,7 +248,9 @@ Borrador proyecto final: lunes 8 de mayo.
 
 Entrega definitiva proyecto final: lunes 15 de mayo, ver en clase.
 
-- 🎉:checkered_flag: Demo day: Martes 16 de mayo en sala de redacción de la escuela.
+- **🎉:checkered_flag: Demo day:** 
+
+Martes 16 de mayo en sala de redacción de la escuela
 
 ¿Demasiada información? [Revisa e imprime el calendario de entregas.](https://github.com/craft2es/craft2es17/blob/master/entregas.md)
 
