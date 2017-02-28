@@ -342,6 +342,8 @@ Salir a la calle a reportar la Asignación 1.
 
 Fecha de entrega de Asignación 1: 9pm.
 
+[Subir](##calendar-calendario)
+
 #### SEMANA 2
 
 **Martes 7 de febrero**
@@ -373,6 +375,8 @@ Notas explicativas:
 Videoperiodismo:
 - "Producing A Feature Video Story", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
 
+[Subir](##calendar-calendario)
+
 #### SEMANA 3
 
 **Lunes 13 de febrero, 12:00pm**
@@ -397,6 +401,8 @@ Lecturas:
 **Miércoles 15 de febrero**
 **No hay día de reporteo- las clases siguen el itinerario de los lunes**
 
+[Subir](##calendar-calendario)
+
 #### SEMANA 4
 
 **Lunes 20 de febrero, 12:00pm**
@@ -419,6 +425,8 @@ Lectura:
 **Miércoles 22 de febrero**
 
 Trabajo con la versión final del video social
+
+[Subir](##calendar-calendario)
 
 #### SEMANA 5
 
@@ -445,6 +453,8 @@ Lecturas:
 
 Reporteo preliminar para armar "pitch" de Ejercicio 2
 
+[Subir](##calendar-calendario)
+
 #### SEMANA 6
 
 **Lunes 6 de marzo**
@@ -463,6 +473,8 @@ Entregar propuesta escrita del Ejercicio 2 - la entrevista.
 **Miércoles 8 de marzo**
 
 Salir a reportar y producir Tarea 2
+
+[Subir](##calendar-calendario)
 
 #### SEMANA 7
 
@@ -483,6 +495,8 @@ Entregar primer borrador del Ejercicio 2 - la entrevista.
 **Miércoles 15 de marzo**
 
 Trabajo con la versión final del Ejercicio 2
+
+[Subir](##calendar-calendario)
 
 #### SEMANA 8
 
@@ -516,6 +530,8 @@ Lecturas:
 
 Reporteo inicial para armar pitch de Ejercicio 3
 
+[Subir](##calendar-calendario)
+
 #### SEMANA 9
 
 **Lunes 27 de marzo**
@@ -542,6 +558,8 @@ Lectura de referencia y proyectos digitales a revisar:
 - "[La navaja suiza del reportero](https://drive.google.com/open?id=0B7HQWsnha-oQQl92a1dLSGN1X2s)", Manual de Investigación de Ojo Público.
 - [SND: Best of digital design 2016](http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/)
 - [OJA Awards 2016](https://journalists.org/awards/2016-awards/)
+
+[Subir](##calendar-calendario)
 
 #### SEMANA 10
 
@@ -581,6 +599,8 @@ Entregar versión final del Ejercicio 3 - nota de análisis.
   </tr>
 </table>
 
+[Subir](##calendar-calendario)
+
 #### SEMANA 11
 
 **Miércoles 19 de abril. Reemplaza el martes de receso. Se trata de un día regular de clase, como si fuera martes**
@@ -604,6 +624,8 @@ Lecturas:
 
 Entregar Asignación 2
 
+[Subir](##calendar-calendario)
+
 #### SEMANA 12
 
 **Martes 25 de abril**
@@ -618,6 +640,8 @@ Entregar Asignación 2
 **Miércoles 26 de abril**
 
 Salir a reportar para elementos adicionales de Proyecto Final MM
+
+[Subir](##calendar-calendario)
 
 #### SEMANA 13
 
@@ -638,6 +662,8 @@ Salir a reportar para elementos adicionales de Proyecto Final MM
 
 Último día para realizar reportería adicional proyecto final MM
 
+[Subir](##calendar-calendario)
+
 #### SEMANA 14
 
 **Lunes 8 de mayo:**
@@ -657,6 +683,8 @@ Entrega primer borrador de proyecto final
 
 Ajustes finales-proyecto final MM
 
+[Subir](##calendar-calendario)
+
 #### SEMANA 15
 
 **Lunes 15 de mayo**
@@ -671,7 +699,7 @@ Entregar versión final del proyecto en grupo MM.
 2:00pm-4:30pm:
 - Retrospectiva y ¡Fiesta de la clase!
 
-[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
+[Subir](##calendar-calendario)
 
 ##  :muscle: Editores y Mentores
 
