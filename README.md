@@ -163,11 +163,11 @@ Todas las tareas requerirán destrezas avanzadas de reportería y redacción. Bu
   </tr>
 </table>
 
-#### El proceso.
+#### El proceso
 
 Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos:
 
-1. Entregar la propuesta por escrito. El "pitch" escrito se debe entregar a través [del formulario de la clase en Google Forms](http://bit.ly/craft2espannol17form) con toda la información requerida. El estudiante recibirá retroalimentación individualizada y grupal para afinar la propuesta escrita antes de salir a reportar.  
+- Entregar la propuesta por escrito. El "pitch" escrito se debe entregar a través [del formulario de la clase en Google Forms](http://bit.ly/craft2espannol17form) con toda la información requerida. El estudiante recibirá retroalimentación individualizada y grupal para afinar la propuesta escrita antes de salir a reportar.  
 
 <table>
   <tr>
@@ -175,11 +175,11 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
   </tr>
 </table>
 
-2.  Todos los "pitches" se discutirán en clase.
+-  Todos los "pitches" se discutirán en clase.
 
-3. Primer borrador. Una vez que la propuesta ha sido aprobada por los profesores, los grupos saldrán a hacer el reportaje y entregarán la primera versión de la historia de acuerdo con la fecha de entrega establecida en clase.
+- Primer borrador. Una vez que la propuesta ha sido aprobada por los profesores, los grupos saldrán a hacer el reportaje y entregarán la primera versión de la historia de acuerdo con la fecha de entrega establecida en clase.
 
-4.  Versión final. Luego de recibir las observaciones de los profesores, el estudiante entregará el borrador final. Se utilizará esta segunda versión para darle nota al trabajo.
+-  Versión final. Luego de recibir las observaciones de los profesores, el estudiante entregará el borrador final. Se utilizará esta segunda versión para darle nota al trabajo.
 
 <table>
   <tr>
@@ -190,38 +190,33 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
 
 #### Requisitos de entrega:
 
-Nota de Agenda Diaria (pauta) 1
-
+- Nota de Agenda Diaria (pauta) 1
 Solo texto - 800 palabras
-
 Entrega: miércoles 1 de febrero, 5pm
--
 
-Nota de Agenda Diaria (pauta) 2
-
+- Nota de Agenda Diaria (pauta) 2
 Texto (800 palabras) y cinco fotos
-
 Entrega: viernes 21 de abril, 5pm
 
-Tarea 1 Nota Explicativa
+- Tarea 1 Nota Explicativa
 Texto - 500 palabras, con video - 2 minutos 30 segundos max.
 Pitch: martes 14 de febrero, en clase
 Primer borrador: lunes 20 de febrero, 12:00 pm
 Entrega final: lunes 27 de febrero, 12:00 pm
 
-Tarea 2 Entrevista
+- Tarea 2 Entrevista
 Audio - hasta cinco minutos, con texto - 200 palabras, gráfica interactiva
 Pitch: lunes 27 de febrero, en clase
 Primer borrador: lunes 6 de marzo, 12:00 pm
 Entrega final: lunes 13 de marzo, 12:00 pm
 
-Tarea 3 Nota de análisis
+- Tarea 3 Nota de análisis
 Texto - 1,000 palabras, elemento interactivo avanzado (mapa, gráficos, línea de tiempo y/u otros)
 Pitch: lunes 21 de marzo, en clase
 Primer borrador: lunes 27 de marzo, 12:00 PM
 Entrega final: lunes 3 de abril, 12:00pm
 
-Proyecto final
+- Proyecto final
 Cada tarea formará parte del proyecto final, que presentará una crónica interactiva y transmedia de nivel avanzado.
 Evaluación grupal proyecto final: miércoles 19 de abril, día de clase extraordinario.
 Plan de trabajo proyecto final: martes 25 de abril, en clase
@@ -229,7 +224,7 @@ Trabajo con coach web-interactivo: martes 2 de mayo, en clase vespertina
 Borrador proyecto final: lunes 8 de mayo
 Entrega definitiva proyecto final: lunes 15 de mayo, ver en clase
 
-Demo day
+- Demo day
 Martes 16 de mayo en sala de redacción de la escuela
 
 ¿Demasiada información? [Revisa e imprime el calendario de entregas.](https://github.com/craft2es/craft2es17/blob/master/entregas.md)
