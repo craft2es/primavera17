@@ -1,4 +1,4 @@
-#Craft II en Español: Periodismo y redacción avanzada
+# Craft II en Español: Periodismo y redacción avanzada
 Programa Bilingüe de la Maestría de Periodismo de CUNY
 
 **Código:** Journ 72000  
@@ -9,6 +9,7 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 **Profesores:** [Miguel Paz](https://www.journalism.cuny.edu/cunyj_profiles/paz-miguel-distinguished-lecturer-data-journalism-and-multimedia-storytelling/), [Luis Trelles](http://radioambulante.org/en/producer/luis-trelles), Cristina Maldonado.
 
 **Canales de comunicación:**
+
 - Correo electrónico: para preguntas y comentarios.
 [Luis Trelles](mailto:luis.trelles@journalism.cuny.edu), [Miguel Paz](mailto:miguel.paz@journalism.cuny.edu), [Cristina Maldonado.](mailto:cristina.maldonado@journalism.cuny.edu)
 - SMS: Solo mensajes de texto, no contestamos llamadas o mensajes de voz. Devolveremos la llamada lo antes posible. Luis Trelles, 646-234-9825. Miguel Paz, 347-653-1272
@@ -22,37 +23,37 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Descripción del curso](#descripcin-del-curso)
-	- [Cómo funciona la clase](#cmo-funciona-la-clase)
-	- [Requisitos Técnicos](#requisitos-tcnicos)
+		- [Cómo funciona la clase](#cmo-funciona-la-clase)
+		- [Requisitos Técnicos](#requisitos-tcnicos)
 - [Las reglas del juego](#las-reglas-del-juego)
-	- [En clase:](#en-clase)
-	- [En cada trabajo:](#en-cada-trabajo)
-	- [Código de honor](#cdigo-de-honor)
+		- [En clase:](#en-clase)
+		- [En cada trabajo:](#en-cada-trabajo)
+		- [Código de honor](#cdigo-de-honor)
 - [Los trabajos](#los-trabajos)
-	- [Agenda diaria (pauta)](#agenda-diaria-pauta)
-	- [Historias en profundidad](#historias-en-profundidad)
-	- [Ejes temáticos](#ejes-temticos)
-	- [Trabajos interactivos y multimedia.](#trabajos-interactivos-y-multimedia)
-	- [El proceso.](#el-proceso)
-	- [Requisitos de entrega:](#requisitos-de-entrega)
+		- [Agenda diaria (pauta)](#agenda-diaria-pauta)
+		- [Historias en profundidad](#historias-en-profundidad)
+		- [Ejes temáticos](#ejes-temticos)
+		- [Trabajos interactivos y multimedia.](#trabajos-interactivos-y-multimedia)
+		- [El proceso](#el-proceso)
+		- [Requisitos de entrega:](#requisitos-de-entrega)
 - [Rúbrica](#rbrica)
 - [Objetivos del curso:](#objetivos-del-curso)
 - [Calendario](#calendario)
-	- [Semana 1](#semana-1)
-	- [Semana 2](#semana-2)
-	- [Semana 3](#semana-3)
-	- [Semana 4](#semana-4)
-	- [Semana 5](#semana-5)
-	- [Semana 6](#semana-6)
-	- [Semana 7](#semana-7)
-	- [Semana 8](#semana-8)
-	- [Semana 9](#semana-9)
-	- [Semana 10](#semana-10)
-	- [Semana 11](#semana-11)
-	- [Semana 12](#semana-12)
-	- [Semana 13](#semana-13)
-	- [Semana 14](#semana-14)
-	- [Semana 15](#semana-15)
+		- [Semana 1](#semana-1)
+		- [SEMANA 2](#semana-2)
+		- [SEMANA 3](#semana-3)
+		- [SEMANA 4](#semana-4)
+		- [SEMANA 5](#semana-5)
+		- [SEMANA 6](#semana-6)
+		- [SEMANA 7](#semana-7)
+		- [SEMANA 8](#semana-8)
+		- [SEMANA 9](#semana-9)
+		- [SEMANA 10](#semana-10)
+		- [SEMANA 11](#semana-11)
+		- [SEMANA 12](#semana-12)
+		- [SEMANA 13](#semana-13)
+		- [SEMANA 14](#semana-14)
+		- [SEMANA 15](#semana-15)
 - [Editores y Mentores](#editores-y-mentores)
 - [Lecturas](#lecturas)
 
@@ -73,6 +74,7 @@ Desde el principio del semestre nos dividiremos en pequeños grupos de dos o tre
 Al final, todos los trabajos irán dirigidos a contar historias relevantes y de interés público.   Esto exige un periodismo riguroso, comprometido con la transparencia y la veracidad.
 
 #### Cómo funciona la clase
+
 El bloque de las mañanas se dividirá entre conferencias, presentaciones, críticas grupales y ejercicios prácticos.  Algunas sesiones contarán con la participación de conferenciantes invitados. Todas las lecturas, páginas web, apps, videos y podcasts -en español y en inglés- estarán disponibles en la carpeta de la clase en Google Drive: [http://bit.ly/2k7Th6c](http://bit.ly/2k7Th6c).  
 
 En la tarde, la clase funcionará como una sala de redacción.  Los estudiantes utilizarán este tiempo para poner en marcha la reportería de sus asignaciones y ejercicios.  Los profesores del curso estarán presentes para servir de mentores y guías en este proceso.  Una vez iniciadas las historias, la sala de redacción también funcionará como un laboratorio de redacción, producción multimedios y producción interactiva que contará con sesiones individuales de edición y la atención personalizada de los profesores.
@@ -134,13 +136,9 @@ Durante el semestre exploraremos varios géneros y formatos: notas explicativas,
 Desde la primera semana los grupos deberán escoger un tema que investigarán durante el resto del semestre:
 
 1. Usura y azar: una mirada a los "préstamos del día de pago" y loterías clandestinas dirigidas específicamente a la comunidad latina en Nueva York.
-
 2. El dios de los latinos: una exploración de pequeñas Iglesias evangélicas (y otras denominaciones) que han surgido en los barrios latinos de la ciudad.
-
 3. Cambios en la vida de comunidades latinas en la era de Trump.
-
 4. Latinos por Trump.
-
 5. Nueva generación de políticos latinos en Nueva York.
 
 Cabe la posibilidad de que algunos trabajos se publiquen en [CityLab Latino](http://www.univision.com/noticias/citylab-latino).
@@ -176,7 +174,6 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
 </table>
 
 -  Todos los "pitches" se discutirán en clase.
-
 - Primer borrador. Una vez que la propuesta ha sido aprobada por los profesores, los grupos saldrán a hacer el reportaje y entregarán la primera versión de la historia de acuerdo con la fecha de entrega establecida en clase.
 
 -  Versión final. Luego de recibir las observaciones de los profesores, el estudiante entregará el borrador final. Se utilizará esta segunda versión para darle nota al trabajo.
@@ -190,42 +187,46 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
 
 #### Requisitos de entrega:
 
-- Nota de Agenda Diaria (pauta) 1
-Solo texto - 800 palabras
-Entrega: miércoles 1 de febrero, 5pm
+
+- Nota de Agenda Diaria (pauta) 1:
+	- Solo texto - 800 palabras.
+	- Entrega: miércoles 1 de febrero, 5pm
+
 
 - Nota de Agenda Diaria (pauta) 2
-Texto (800 palabras) y cinco fotos
-Entrega: viernes 21 de abril, 5pm
+	- Texto (800 palabras) y cinco fotos
+	- Entrega: viernes 21 de abril, 5pm
+
 
 - Tarea 1 Nota Explicativa
-Texto - 500 palabras, con video - 2 minutos 30 segundos max.
-Pitch: martes 14 de febrero, en clase
-Primer borrador: lunes 20 de febrero, 12:00 pm
-Entrega final: lunes 27 de febrero, 12:00 pm
+	- Texto - 500 palabras, con video - 2 minutos 30 segundos max.
+	- Pitch: martes 14 de febrero, en clase
+	- Primer borrador: lunes 20 de febrero, 12:00 pm
+	- Entrega final: lunes 27 de febrero, 12:00 pm
+
 
 - Tarea 2 Entrevista
-Audio - hasta cinco minutos, con texto - 200 palabras, gráfica interactiva
-Pitch: lunes 27 de febrero, en clase
-Primer borrador: lunes 6 de marzo, 12:00 pm
-Entrega final: lunes 13 de marzo, 12:00 pm
+	- Audio - hasta cinco minutos, con texto - 200 palabras, gráfica interactiva
+	- Pitch: lunes 27 de febrero, en clase
+	- Primer borrador: lunes 6 de marzo, 12:00 pm
+	- Entrega final: lunes 13 de marzo, 12:00 pm
+
 
 - Tarea 3 Nota de análisis
-Texto - 1,000 palabras, elemento interactivo avanzado (mapa, gráficos, línea de tiempo y/u otros)
-Pitch: lunes 21 de marzo, en clase
-Primer borrador: lunes 27 de marzo, 12:00 PM
-Entrega final: lunes 3 de abril, 12:00pm
+	- Texto - 1,000 palabras, elemento interactivo avanzado (mapa, gráficos, línea de tiempo y/u otros)
+	- Pitch: lunes 21 de marzo, en clase
+	- Primer borrador: lunes 27 de marzo, 12:00 PM
+	- Entrega final: lunes 3 de abril, 12:00pm
+
 
 - Proyecto final
 Cada tarea formará parte del proyecto final, que presentará una crónica interactiva y transmedia de nivel avanzado.
-Evaluación grupal proyecto final: miércoles 19 de abril, día de clase extraordinario.
-Plan de trabajo proyecto final: martes 25 de abril, en clase
-Trabajo con coach web-interactivo: martes 2 de mayo, en clase vespertina
-Borrador proyecto final: lunes 8 de mayo
-Entrega definitiva proyecto final: lunes 15 de mayo, ver en clase
-
-- Demo day
-Martes 16 de mayo en sala de redacción de la escuela
+	- Evaluación grupal proyecto final: miércoles 19 de abril, día de clase extraordinario.
+	- Plan de trabajo proyecto final: martes 25 de abril, en clase
+	- Trabajo con coach web-interactivo: martes 2 de mayo, en clase vespertina
+	- Borrador proyecto final: lunes 8 de mayo
+	- Entrega definitiva proyecto final: lunes 15 de mayo, ver en clase
+- Demo day 🎉: Martes 16 de mayo en sala de redacción de la escuela
 
 ¿Demasiada información? [Revisa e imprime el calendario de entregas.](https://github.com/craft2es/craft2es17/blob/master/entregas.md)
 
@@ -292,49 +293,57 @@ Al finalizar el curso el estudiante debe haber adquirido las siguientes destreza
 #### Semana 1
 
 **Martes 31 de enero**
-9:30am-12:20pm:
--Presentación del curso y repaso del syllabus.
--Explicación del proyecto final MM
--Armar grupos y elegir temas
--Repaso: la cobertura de Agenda Diaria, relevancia de la cobertura y contexto comunitario
--Estructura de la nota informativa: el "lede" en esteroides y la pirámide invertida para web
-2:00pm-4:30pm:
--Investigación Avanzada: Factiva, Access World News, TVEYES
--Sala de Redacción: Seleccionar Historia de Agenda Diaria #1
--Sala de Redacción: poner en marcha el "pitch" para cobertura temática
 
-Lecturas de referencia:
--["Los cinco sentidos del periodista"](https://drive.google.com/open?id=0B7HQWsnha-oQSzk0R0dQX2hTOVE), Ryszard Kapuscisnki
--["El mejor oficio del mundo"](https://drive.google.com/a/journalism.cuny.edu/file/d/0B7HQWsnha-oQRDFIM0JrME15YVk/view?usp=sharing), Gabriel García Márquez
+9:30am-12:20pm:
+
+- Presentación del curso y repaso del syllabus.
+- Explicación del proyecto final MM
+- Armar grupos y elegir temas
+- Repaso: la cobertura de Agenda Diaria, relevancia de la cobertura y contexto comunitario
+- Estructura de la nota informativa: el "lede" en esteroides y la pirámide invertida para web
+2:00pm-4:30pm:
+- Investigación Avanzada: Factiva, Access World News, TVEYES
+- Sala de Redacción: Seleccionar Historia de Agenda Diaria #1
+- Sala de Redacción: poner en marcha el "pitch" para cobertura temática.
+
+
+- Lecturas de referencia:
+	- ["Los cinco sentidos del periodista"](https://drive.google.com/open?id=0B7HQWsnha-oQSzk0R0dQX2hTOVE), Ryszard Kapuscisnki
+	- ["El mejor oficio del mundo"](https://drive.google.com/a/journalism.cuny.edu/file/d/0B7HQWsnha-oQRDFIM0JrME15YVk/view?usp=sharing), Gabriel García Márquez
 
 **Miércoles 1 de febrero**
--Salir a la calle a reportar la Asignación 1.
+- Salir a la calle a reportar la Asignación 1.
 Fecha de entrega de Asignación 1: 9pm.
 
 #### SEMANA 2
 
 **Martes 7 de febrero**
-9:30am-12:20pm:
--El arte del "pitch": calibrar el radar periodístico para la búsqueda de ideas
--Presentación y discusión/coberturas temáticas
-2:00pm-4:30pm:
--La nota explicativa: técnicas de reportaje y acercamientos narrativos
--Multimedios: técnicas narrativas para la producción de video
--Sala de Redacción: poner en marcha el "pitch" para cobertura temática
 
-**miércoles 8 de febrero**
--Armar pitch del Ejercicio 1.
+9:30am-12:20pm:
+- El arte del "pitch": calibrar el radar periodístico para la búsqueda de ideas
+- Presentación y discusión/coberturas temáticas
+
+2:00pm-4:30pm:
+- La nota explicativa: técnicas de reportaje y acercamientos narrativos
+- Multimedios: técnicas narrativas para la producción de video
+- Sala de Redacción: poner en marcha el "pitch" para cobertura temática
+
+**Miércoles 8 de febrero**
+- Armar pitch del Ejercicio 1.
 
 Lecturas de referencia:
-El pitch:
--[Lee esta lista de consejos para hacer un pitch](http://transom.org/2015/pitching-story-ideas/)
--[Lee la página de "submissions" de “This American Life”](https://www.thisamericanlife.org/about/submissions)
-y -[una lista de propuestas exitosas para la serie](https://www.thisamericanlife.org/about/submissions/sample-pitches)
--[Repasa la sección "¿Cómo proponer una historia?" ](https://drive.google.com/open?id=0B7HQWsnha-oQU1JSdGVlb0txTEk), del Manual de productores de Radio Ambulante
-Notas explicativas:
--["How Journalists Can Create Better Explainers"](http://www.poynter.org/2013/how-journalists-can-create-better-explainers/202622/), Meena Thiruvengadam
-Videoperiodismo:
--"Producing A Feature Video Story", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
+
+- El pitch:
+	- [Lee esta lista de consejos para hacer un pitch](http://transom.org/2015/pitching-story-ideas/)
+	- [Lee la página de "submissions" de “This American Life”](https://www.thisamericanlife.org/about/submissions)
+y [una lista de propuestas exitosas para la serie](https://www.thisamericanlife.org/about/submissions/sample-pitches)
+	- [Repasa la sección "¿Cómo proponer una historia?" ](https://drive.google.com/open?id=0B7HQWsnha-oQU1JSdGVlb0txTEk), del Manual de productores de Radio Ambulante
+
+- Notas explicativas:
+	- ["How Journalists Can Create Better Explainers"](http://www.poynter.org/2013/how-journalists-can-create-better-explainers/202622/), Meena Thiruvengadam
+
+- Videoperiodismo:
+	- "Producing A Feature Video Story", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
 
 #### SEMANA 3
 
