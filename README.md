@@ -22,41 +22,40 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Craft II en Español: Periodismo y redacción avanzada](#craft-ii-en-espaol-periodismo-y-redaccin-avanzada)
-	- [:mag_right: Descripción del curso](#magright-descripcin-del-curso)
-			- [Cómo funciona la clase](#cmo-funciona-la-clase)
-			- [Requisitos Técnicos](#requisitos-tcnicos)
-	- [:vertical_traffic_light: Las reglas del juego](#verticaltrafficlight-las-reglas-del-juego)
-			- [En clase](#en-clase)
-			- [En cada trabajo](#en-cada-trabajo)
-			- [Código de honor](#cdigo-de-honor)
-	- [:construction: Los trabajos](#construction-los-trabajos)
-			- [Agenda diaria (pauta)](#agenda-diaria-pauta)
-			- [Historias en profundidad](#historias-en-profundidad)
-			- [Ejes temáticos](#ejes-temticos)
-			- [Trabajos interactivos y multimedia](#trabajos-interactivos-y-multimedia)
-			- [El proceso](#el-proceso)
-			- [:heavy_check_mark: Requisitos de entrega:](#heavycheckmark-requisitos-de-entrega)
-	- [:key: Rúbrica](#key-rbrica)
-	- [:mortar_board: Objetivos del curso:](#mortarboard-objetivos-del-curso)
-	- [:calendar: Calendario](#calendar-calendario)
-			- [Semana 1](#semana-1)
-			- [SEMANA 2](#semana-2)
-			- [SEMANA 3](#semana-3)
-			- [SEMANA 4](#semana-4)
-			- [SEMANA 5](#semana-5)
-			- [SEMANA 6](#semana-6)
-			- [SEMANA 7](#semana-7)
-			- [SEMANA 8](#semana-8)
-			- [SEMANA 9](#semana-9)
-			- [SEMANA 10](#semana-10)
-			- [SEMANA 11](#semana-11)
-			- [SEMANA 12](#semana-12)
-			- [SEMANA 13](#semana-13)
-			- [SEMANA 14](#semana-14)
-			- [SEMANA 15](#semana-15)
-	- [:muscle: Editores y Mentores](#muscle-editores-y-mentores)
-	- [:books: Lecturas](#books-lecturas)
+- [:mag_right: Descripción del curso](#magright-descripcin-del-curso)
+	- [Cómo funciona la clase](#cmo-funciona-la-clase)
+	- [Requisitos Técnicos](#requisitos-tcnicos)
+- [:vertical_traffic_light: Las reglas del juego](#verticaltrafficlight-las-reglas-del-juego)
+	- [En clase](#en-clase)
+	- [En cada trabajo](#en-cada-trabajo)		
+	- [Código de honor](#cdigo-de-honor)
+- [:construction: Los trabajos](#construction-los-trabajos)
+	- [Agenda diaria (pauta)](#agenda-diaria-pauta)	
+	- [Historias en profundidad](#historias-en-profundidad)
+	- [Ejes temáticos](#ejes-temticos)
+	- [Trabajos interactivos y multimedia](#trabajos-interactivos-y-multimedia)
+	- [El proceso](#el-proceso)		
+	- [:heavy_check_mark: Requisitos de entrega:](#heavycheckmark-requisitos-de-entrega)
+- [:key: Rúbrica](#key-rbrica)
+- [:mortar_board: Objetivos del curso:](#mortarboard-objetivos-del-curso)
+- [:calendar: Calendario](#calendar-calendario)
+	- [SEMANA 1](#semana-1)
+	- [SEMANA 2](#semana-2)
+	- [SEMANA 3](#semana-3)
+	- [SEMANA 4](#semana-4)
+	- [SEMANA 5](#semana-5)
+	- [SEMANA 6](#semana-6)	
+	- [SEMANA 7](#semana-7)
+	- [SEMANA 8](#semana-8)
+	- [SEMANA 9](#semana-9)
+	- [SEMANA 10](#semana-10)
+	- [SEMANA 11](#semana-11)
+	- [SEMANA 12](#semana-12)
+	- [SEMANA 13](#semana-13)
+	- [SEMANA 14](#semana-14)
+	- [SEMANA 15](#semana-15)
+- [:muscle: Editores y Mentores](#muscle-editores-y-mentores)
+- [:books: Lecturas](#books-lecturas)
 
 <!-- /TOC -->
 
@@ -93,6 +92,8 @@ En la tarde, la clase funcionará como una sala de redacción. Los estudiantes u
 - Programa de edición de audio (se recomienda [Hindenburg](https://hindenburg.com/))
 - Durante el curso hay un ejercicio de video, uno de foto y otro de audio, el equipo se debe separar con tiempo en la [sala de equipos](http://bit.ly/2l52zUk).
 
+[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
+
 ##  :vertical_traffic_light: Las reglas del juego
 
 El éxito de este taller depende del nivel de compromiso de cada estudiante. Es decir, le toca a cada miembro del grupo cumplir con su trabajo y las lecturas asignadas, además de estar receptivo para aportar al trabajo de los compañeros y compañeras.
@@ -123,7 +124,9 @@ Grupos de trabajo: Desde el primer día nos estaremos reuniendo en grupos de tra
 
 Esta clase sigue las directrices del Manual del Estudiante de la Escuela de Periodismo. El plagio o la falsificación de datos, fuentes y hechos son infracciones graves que pueden llevar a la expulsión del estudiante de la Escuela de Periodismo.  
 
-##   :construction: Los trabajos
+[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
+
+## :construction: Los trabajos
 
 #### Agenda diaria (pauta)
 
@@ -188,19 +191,19 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
 
 ####  :heavy_check_mark: Requisitos de entrega:
 
-**Nota de Agenda Diaria (pauta) 1**
+- Nota de Agenda Diaria (pauta) 1
 
 Solo texto - 800 palabras.
 
 Entrega: miércoles 1 de febrero, 5pm.
 
-**Nota de Agenda Diaria (pauta) 2**
+- Nota de Agenda Diaria (pauta) 2
 
 Texto (800 palabras) y cinco fotos.
 
 Entrega: viernes 21 de abril, 5pm.
 
-**Tarea 1 Nota Explicativa**
+- Tarea 1 Nota Explicativa
 
 Texto - 500 palabras, con video - 2 minutos 30 segundos max.
 
@@ -210,7 +213,7 @@ Primer borrador: lunes 20 de febrero, 12:00 pm.
 
 Entrega final: lunes 27 de febrero, 12:00 pm.
 
-**Tarea 2 Entrevista**
+- Tarea 2 Entrevista
 
 Audio - hasta cinco minutos, con texto - 200 palabras, gráfica interactiva.
 
@@ -220,7 +223,7 @@ Primer borrador: lunes 6 de marzo, 12:00 pm.
 
 Entrega final: lunes 13 de marzo, 12:00 pm.
 
-**Tarea 3 Nota de análisis**
+- Tarea 3 Nota de análisis
 
 Texto - 1,000 palabras, elemento interactivo avanzado (mapa, gráficos, línea de tiempo y/u otros).
 
@@ -230,7 +233,7 @@ Primer borrador: lunes 27 de marzo, 12:00 PM.
 
 Entrega final: lunes 3 de abril, 12:00pm.
 
-**Proyecto final**
+- Proyecto final
 
 Cada tarea formará parte del proyecto final, que presentará una crónica interactiva y transmedia de nivel avanzado.
 
@@ -244,7 +247,7 @@ Borrador proyecto final: lunes 8 de mayo.
 
 Entrega definitiva proyecto final: lunes 15 de mayo, ver en clase.
 
-🎉:checkered_flag: Demo day: Martes 16 de mayo en sala de redacción de la escuela.
+- 🎉:checkered_flag: Demo day: Martes 16 de mayo en sala de redacción de la escuela.
 
 ¿Demasiada información? [Revisa e imprime el calendario de entregas.](https://github.com/craft2es/craft2es17/blob/master/entregas.md)
 
@@ -254,6 +257,8 @@ Entrega definitiva proyecto final: lunes 15 de mayo, ver en clase.
 </td>
   </tr>
 </table>
+
+[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
 
 ## :key: Rúbrica
 
@@ -288,6 +293,8 @@ La nota final del curso se calcula de esta manera:
 - 10% asistencia y participación en clase
 - 10% otros ejercicios prácticos en clase
 
+[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
+
 ## :mortar_board: Objetivos del curso:
 
 Al finalizar el curso el estudiante debe haber adquirido las siguientes destrezas y conocimientos a nivel avanzado:
@@ -305,14 +312,15 @@ Al finalizar el curso el estudiante debe haber adquirido las siguientes destreza
 - Escribir titulares memorables.
 - Reconocer la importancia de desarrollar una voz propia.
 
+[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
+
 ##  :calendar: Calendario
 
-#### Semana 1
+#### SEMANA 1
 
 **Martes 31 de enero**
 
 9:30am-12:20pm:
-
 - Presentación del curso y repaso del syllabus.
 - Explicación del proyecto final MM
 - Armar grupos y elegir temas
@@ -323,7 +331,6 @@ Al finalizar el curso el estudiante debe haber adquirido las siguientes destreza
 - Investigación Avanzada: Factiva, Access World News, TVEYES
 - Sala de Redacción: Seleccionar Historia de Agenda Diaria #1
 - Sala de Redacción: poner en marcha el "pitch" para cobertura temática.
-
 
 Lecturas de referencia:
 - ["Los cinco sentidos del periodista"](https://drive.google.com/open?id=0B7HQWsnha-oQSzk0R0dQX2hTOVE), Ryszard Kapuscisnki
@@ -401,6 +408,7 @@ Entregar primera versión del Ejercicio 1- nota explicativa (texto y video edita
 9:30am-12:20pm:
 - Lección: la voz del periodista/la comunidad a la que le informa
 - Discusión: Primera versión de Ejercicio 1
+
 2:00pm-4:30pm:
 - Taller de destrezas multimedios: gráficas y post-producción video social
 - Sala de redacción: Trabajo con el video social
@@ -416,7 +424,7 @@ Trabajo con la versión final del video social
 
 **Lunes 27 de febrero**
 
-Entregar borrador final del Ejercicio #1- nota explicativa.
+Entregar borrador final del Ejercicio 1- nota explicativa.
 
 **Martes 28 de febrero**
 
@@ -454,7 +462,7 @@ Entregar propuesta escrita del Ejercicio 2 - la entrevista.
 
 **Miércoles 8 de marzo**
 
-- Salir a reportar y producir Tarea 2
+Salir a reportar y producir Tarea 2
 
 #### SEMANA 7
 
@@ -500,7 +508,6 @@ Entregar versión final del Ejercicio 2 - la entrevista.
 - Taller: Investigando historias en la data con SQLite. Requisitos: [descargar SQLite](https://github.com/miguelpaz/install-SQLite) y tener Firefox instalado.
 
 Lecturas:
-
 - [Análisis](https://drive.google.com/open?id=0B7HQWsnha-oQMC0tMnFtNDctUjg), en El estilo del periodista, Alex Grijelmo
 - [La violencia contra las mujeres (no) es normal](http://www.animalpolitico.com/tag/la-violencia-no-es-normal/), serie de Animal Político
 - [Nos equivocamos en todo](http://www.revistaanfibia.com/ensayo/nos-equivocamos-en-todo/), en Revista Anfibia
@@ -577,20 +584,24 @@ Entregar versión final del Ejercicio 3 - nota de análisis.
 #### SEMANA 11
 
 **Miércoles 19 de abril. Reemplaza el martes de receso. Se trata de un día regular de clase, como si fuera martes**
+
 (Estaremos en el salón de clase y no saldremos a la calle a reportar)
+
 9:30am-12:20pm:
--Evaluación del proyecto Final
--Sala de redacción: Comenzar Asignación 2, Nota de Agenda Diaria con 5 fotos
--Investigación Avanzada: FOIA/FOIL
+- Evaluación del proyecto Final
+- Sala de redacción: Comenzar Asignación 2, Nota de Agenda Diaria con 5 fotos
+- Investigación Avanzada: FOIA/FOIL
+
 2:00pm-4:30pm:
--Taller Interactivo: Revisión de avance y calidad de proyectos grupales MM. GitHub avanzado y línea de comando.
+- Taller Interactivo: Revisión de avance y calidad de proyectos grupales MM. GitHub avanzado y línea de comando.
 
 Lecturas:
--"[Narrativas Transmedia: Cuando todos los medios cuentan](https://drive.google.com/open?id=0B7HQWsnha-oQZ0ZVOENsT29PWDQ)", Carlos Scolari
--"[Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)", John Branch, crónica transmedia del New York Times
--"[Prison Kids](https://fusion.net/series/prison-kids/)", proyecto de Fusion
+- "[Narrativas Transmedia: Cuando todos los medios cuentan](https://drive.google.com/open?id=0B7HQWsnha-oQZ0ZVOENsT29PWDQ)", Carlos Scolari
+- "[Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)", John Branch, crónica transmedia del New York Times
+- "[Prison Kids](https://fusion.net/series/prison-kids/)", proyecto de Fusion
 
 **Viernes 21 de abril, 5pm**
+
 Entregar Asignación 2
 
 #### SEMANA 12
@@ -605,77 +616,99 @@ Entregar Asignación 2
 - Sala de Redacción
 
 **Miércoles 26 de abril**
+
 Salir a reportar para elementos adicionales de Proyecto Final MM
 
 #### SEMANA 13
 
 **Martes 2 de mayo**
+
 9:30am-12:20pm:
--En foco: transmedia, cuando todos los medios cuentan
--Multimedia: discusión de nuevas tendencias en VR, video 360, drones, etc.
--Investigación Avanzada: Búsqueda avanzada en redes sociales
+- En foco: transmedia, cuando todos los medios cuentan
+- Multimedia: discusión de nuevas tendencias en VR, video 360, drones, etc.
+- Investigación Avanzada: Búsqueda avanzada en redes sociales
+
 2:00pm-4:30pm:
--Sala de Redacción
+- Sala de Redacción
+
 18:30pm-21:30pm
--Interactivo: Consultar con coach
+- Interactivo: Consultar con coach
 
 **Miércoles 3 de mayo**
+
 Último día para realizar reportería adicional proyecto final MM
 
 #### SEMANA 14
 
 **Lunes 8 de mayo:**
+
 Entrega primer borrador de proyecto final
 
 **Martes 9 de mayo**
+
 9:30am-12:20pm:
--Repaso del proyecto final MM
--Discusión de técnicas narrativas para cada proyecto
+- Repaso del proyecto final MM
+- Discusión de técnicas narrativas para cada proyecto
+
 2:00pm-4:30pm:
--Sesiones grupales de edición
+- Sesiones grupales de edición
 
 **Miércoles 10 de mayo**
--Ajustes finales-proyecto final MM
+
+Ajustes finales-proyecto final MM
 
 #### SEMANA 15
 
 **Lunes 15 de mayo**
+
 Entregar versión final del proyecto en grupo MM.
 
 **Martes 16 de mayo**
+
 9:30am-12:20pm:
--Presentaciones finales del proyecto grupal
+- Presentaciones finales del proyecto grupal
+
 2:00pm-4:30pm:
-Retrospectiva y ¡Fiesta de la clase!
+- Retrospectiva y ¡Fiesta de la clase!
+
+[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
 
 ##  :muscle: Editores y Mentores
-Ricardo Reif, editor en español
+
+- Ricardo Reif, editor en español
 Contacto: [rreif@hotmail.com](mailto:rreif@hotmail.com)
 Disponibilidad: domingo, lunes, martes y viernes 5:30pm-7:30pm, sábados de 2:00pm-4:00pm. Salón 432.
-En este enlace puedes encontrar información de horarios y cómo separar tiempo con los mentores y "coaches": [http://bit.ly/2cfSdhL](http://bit.ly/2cfSdhL)
+- En este enlace puedes encontrar información de horarios y cómo separar tiempo con los mentores y "coaches": [http://bit.ly/2cfSdhL](http://bit.ly/2cfSdhL)
+
+[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
 
 ##  :books: Lecturas
+
 Disponibles en la Carpeta de Lecturas de la clase.
-"Los cinco sentidos del periodista", Ryszard Kapuscinski
-"El estilo del periodista", Alex Grijelmo
-"Feature and Narrative Storytelling for Multimedia Storytelling for Multimedia Journalists", Duy Lin Tu
-"Out on the Wire: The Storytelling Secrets of the New Masters of Radio", Jessica Abel
-"Técnicas de investigación", Daniel Santoro
-"La crónica, ornitorrinco de la prosa", Juan Villoro
-"Narrativas transmedia: cuando todos los medios cuentan", Carlos Alberto Scolari
+
+- "Los cinco sentidos del periodista", Ryszard Kapuscinski
+- "El estilo del periodista", Alex Grijelmo
+- "Feature and Narrative Storytelling for Multimedia Storytelling for Multimedia Journalists", Duy Lin Tu
+- "Out on the Wire: The Storytelling Secrets of the New Masters of Radio", Jessica Abel
+- "Técnicas de investigación", Daniel Santoro
+- "La crónica, ornitorrinco de la prosa", Juan Villoro
+- "Narrativas transmedia: cuando todos los medios cuentan", Carlos Alberto Scolari
 
 Disponibles en el Research Center. Veremos capitulos específicos y están para consulta de referencia.
-"[Computer-Assisted Reporting: A Practical Guide](http://store.ire.org/collections/books/products/computer-assisted-reporting-a-practical-guide-3rd-edition-e-version)", by Brant Houston
-“Numbers in the Newsroom: Using Math and Statistics in News”, Sarah Cohen
+
+- "[Computer-Assisted Reporting: A Practical Guide](http://store.ire.org/collections/books/products/computer-assisted-reporting-a-practical-guide-3rd-edition-e-version)", by Brant Houston
+- “Numbers in the Newsroom: Using Math and Statistics in News”, Sarah Cohen
 [Computer-Assisted Research: Information Strategies and Tools for Journalists](http://store.ire.org/products/computer-assisted-research-information-strategies-and-tools-for-journalists) By Nora Paul and Kathleen A. Hansen
-"The Investigative Reporter´s Handbook: A Guide to Documents, Databases and Techniques", Fourth Edition. Brant Houston, Len Bruzzese, Steve Weinberg. Part One. The Basics: How to investigate anyone or anything. Páginas 3 a 35. Incluye indíce de tópicos a reportear que te llevan a la página específica. Ejemplo: Insurance Companies and Agents, página 383. Armas, página 218. Landlords and Tenants, página 479.
-[“Guía Quartz de Datos Malos”](https://es.schoolofdata.org/guia-quartz/) (online en español). Original [en inglés acá. ](https://github.com/Quartz/bad-data-guide)
-“Manual de Periodismo de Datos Iberoamericano” ([online aquí](http://manual.periodismodedatos.org/) y disponible en biblioteca). Casos de investigaciones de toda América Latina. Editado por Felipe Perry y Miguel Paz.
-“[The Functional Art: An introduction to information graphics and visualization](https://www.amazon.com/Functional-Art-introduction-information-visualization/dp/0321834739?ie=UTF8&ref_=asap_bc)”, Alberto Cairo
-[The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142?ie=UTF8&camp=1789&creative=390957&creativeASIN=0961392142&linkCode=as2&redirect=true&tag=flowingdata-20), by Edward R. Tufte**
-**[Data Points: Visualization That Means Something](https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=pd_sim_14_6?ie=UTF8&dpID=51lfTMyZ8GL&dpSrc=sims&preST=_AC_UL160_SR128%2C160_&psc=1&refRID=GGCV7QNKWQW0YYYF8YV7) by Nathan Yau[ ](http://site.ebrary.com/lib/cunygsj/detail.action?docID=10680771)
-[Design for Information](https://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061) by Isabel Meirelles[ ](http://site.ebrary.com/lib/cunygsj/detail.action?docID=10769565)
-[Mapping for Stories: A Computer-Assisted Reporting Guide,](http://store.ire.org/products/mapping-for-stories-a-computer-assisted-reporting-guide) By Jennifer LaFleur and Andy Lehren.
+- "The Investigative Reporter´s Handbook: A Guide to Documents, Databases and Techniques", Fourth Edition. Brant Houston, Len Bruzzese, Steve Weinberg. Part One. The Basics: How to investigate anyone or anything. Páginas 3 a 35. Incluye indíce de tópicos a reportear que te llevan a la página específica. Ejemplo: Insurance Companies and Agents, página 383. Armas, página 218. Landlords and Tenants, página 479.
+- [“Guía Quartz de Datos Malos”](https://es.schoolofdata.org/guia-quartz/) (online en español). Original [en inglés acá. ](https://github.com/Quartz/bad-data-guide)
+- “Manual de Periodismo de Datos Iberoamericano” ([online aquí](http://manual.periodismodedatos.org/) y disponible en biblioteca). Casos de investigaciones de toda América Latina. Editado por Felipe Perry y Miguel Paz.
+- “[The Functional Art: An introduction to information graphics and visualization](https://www.amazon.com/Functional-Art-introduction-information-visualization/dp/0321834739?ie=UTF8&ref_=asap_bc)”, Alberto Cairo
+- [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142?ie=UTF8&camp=1789&creative=390957&creativeASIN=0961392142&linkCode=as2&redirect=true&tag=flowingdata-20), by Edward R. Tufte
+- [Data Points: Visualization That Means Something](https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=pd_sim_14_6?ie=UTF8&dpID=51lfTMyZ8GL&dpSrc=sims&preST=_AC_UL160_SR128%2C160_&psc=1&refRID=GGCV7QNKWQW0YYYF8YV7) by Nathan Yau[ ](http://site.ebrary.com/lib/cunygsj/detail.action?docID=10680771)
+- [Design for Information](https://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061) by Isabel Meirelles[ ](http://site.ebrary.com/lib/cunygsj/detail.action?docID=10769565)
+- [Mapping for Stories: A Computer-Assisted Reporting Guide,](http://store.ire.org/products/mapping-for-stories-a-computer-assisted-reporting-guide) By Jennifer LaFleur and Andy Lehren.
+
+[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
 
 ---
 *Material del curso Craft 2 en Español del Programa Bilingüe de la Maestría de Periodismo de CUNY. Todos los derechos reservados.*
