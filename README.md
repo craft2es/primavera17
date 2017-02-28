@@ -97,12 +97,13 @@ El éxito de este taller depende del nivel de compromiso de cada estudiante.  Es
 <table>
   <tr>
     <td>
-**Grupos de trabajo:** Desde el primer día nos estaremos reuniendo en grupos de trabajo de tres estudiantes.  Los profesores asignarán los grupos y se organizarán alrededor de ejes temáticos que se trabajarán a lo largo del semestre.  Las funciones de cada integrante estarán claramente asignadas. La nota de la tarea es individual, no grupal, para asegurar que cada cual cumpla con su trabajo.  
+Grupos de trabajo: Desde el primer día nos estaremos reuniendo en grupos de trabajo de tres estudiantes.  Los profesores asignarán los grupos y se organizarán alrededor de ejes temáticos que se trabajarán a lo largo del semestre.  Las funciones de cada integrante estarán claramente asignadas. La nota de la tarea es individual, no grupal, para asegurar que cada cual cumpla con su trabajo.  
 </td>
   </tr>
 </table>
 
 #### En clase:
+
 - Cumplir con las fechas de entrega. Esto es de vital importancia, no solo para la clase sino en la carrera profesional de cualquier periodista, porque las fechas de entrega son sagradas.  No cumplir con ellas tendrá una penalidad del 25% de la nota del ejercicio.  
 - Estar preparado. Hay que llegar a clase habiendo hecho las lecturas o cualquier otro material asignado.
 - Participación. Es importante mantener una actitud de apertura.  El tiempo de clase queda reservado para aprender y discutir los temas de cada sesión.  No es el momento para llamadas personales, mensajes de texto, correos electrónicos y redes sociales.   Los trabajos de los estudiantes reciben una gran cantidad de atención individualizada de parte de los profesores y esperamos que los estudiantes la reciproquen.
@@ -110,16 +111,19 @@ El éxito de este taller depende del nivel de compromiso de cada estudiante.  Es
 - Asistir regularmente y ser puntual. La clase se reúne 15 veces durante el semestre. El tiempo es limitado y hay mucho material que cubrir. Las ausencias sin excusa afectarán la nota final del curso. De igual manera, dos tardanzas equivalen a una ausencia. Es importante que los estudiantes se comuniquen con tiempo con el profesor Trelles en caso de que surja una emergencia.
 
 #### En cada trabajo:
+
 - El valor del trabajo periodístico depende de la credibilidad. Por eso los trabajos de la clase deben contar con una verificación rigurosa de los datos que se presentan. Esa es la base de la profesión. Una historia con información errónea puede llevar a una nota de F.  
 - Todos los trabajos se deben entregar en español (el proyecto final será en español e inglés), y se espera un uso correcto del idioma. Seguiremos las guías del Manual de Estilo de la AP en español. Cada pieza que se entregue para esta clase debe ser clara, precisa y correcta, sin errores ortográficos y gramaticales.  La corrección de estilo forma parte de la nota de cada trabajo.
 - Hay que estar al día con las noticias del momento en Estados Unidos y América Latina. También es importante seguir las últimas tendencias en los medios. Leer, ver, escuchar; estas son la base de cualquier periodista preparado.  
 
 #### Código de honor
+
 Esta clase sigue las directrices del Manual del Estudiante de la Escuela de Periodismo.  El plagio o la falsificación de datos, fuentes y hechos son infracciones graves que pueden llevar a la expulsión del estudiante de la Escuela de Periodismo.  
 
 ## Los trabajos
 
 #### Agenda diaria (pauta)
+
 Durante el semestre tendremos dos ejercicios de noticia del momento. Uno será una nota de texto y el segundo debe incluir un elemento multimedios (video o serie de fotos). Estas asignaciones se deberán hacer en el área de cobertura geográfica asignada en el primer semestre. Utilizaremos el "Daybook" de la AP en Nueva York para identificar historias. Los ejercicios de Agenda Diaria tienen una fecha de entrega muy estricta. El primero se debe entregar en 24 horas y el segundo en 48.  
 
 #### Historias en profundidad
@@ -137,22 +141,24 @@ Cabe la posibilidad de que algunos trabajos se publiquen en [CityLab Latino](htt
 
 <table>
   <tr>
-    <td>**Ejes temáticos:** El tema se puede seleccionar de forma libre, pero debe contar con el visto bueno de los profesores.
+    <td>Ejes temáticos: El tema se puede seleccionar de forma libre, pero debe contar con el visto bueno de los profesores.
 </td>
   </tr>
 </table>
 
 #### Trabajos interactivos y multimedia.
+
 Todas las tareas requerirán destrezas avanzadas de reportería y redacción. Buscamos textos que brillen por su originalidad. Pero no solo escribiremos estas historias. También las haremos en video, en audio, a través de fotos y de elementos interactivos para la web, con mapas, gráficas y otro tipo de acciones interactivas.
 
 <table>
   <tr>
-    <td>**Una nota sobre las propuestas de las historias:** Todas las historias comienzan con una propuesta o un "pitch". El arte del “pitch”, cómo se hace y las maneras en que se puede perfeccionar, será uno de los ingredientes básicos de esta clase.  Las propuestas comenzarán como ideas que se traen a clase y luego evolucionarán para convertirse en propuestas por escrito que se deben aprobar antes de comenzar a reportar.
+    <td>Una nota sobre las propuestas de las historias: Todas las historias comienzan con una propuesta o un "pitch". El arte del “pitch”, cómo se hace y las maneras en que se puede perfeccionar, será uno de los ingredientes básicos de esta clase.  Las propuestas comenzarán como ideas que se traen a clase y luego evolucionarán para convertirse en propuestas por escrito que se deben aprobar antes de comenzar a reportar.
 </td>
   </tr>
 </table>
 
 #### El proceso.
+
 Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos:
 
 1. Entregar la propuesta por escrito. El "pitch" escrito se debe entregar a través [del formulario de la clase en Google Forms](http://bit.ly/craft2espannol17form) con toda la información requerida. El estudiante recibirá retroalimentación individualizada y grupal para afinar la propuesta escrita antes de salir a reportar.  
@@ -204,7 +210,7 @@ Entrega final: lunes 3 de abril, 12:00pm
 
 Proyecto final
 Cada tarea formará parte del proyecto final, que presentará una crónica interactiva y transmedia de nivel avanzado.
-Evaluación grupal proyecto final: miércoles 19 de abril, día de clase extraordinario
+Evaluación grupal proyecto final: miércoles 19 de abril, día de clase extraordinario.
 Plan de trabajo proyecto final: martes 25 de abril, en clase
 Trabajo con coach web-interactivo: martes 2 de mayo, en clase vespertina
 Borrador proyecto final: lunes 8 de mayo
@@ -217,7 +223,7 @@ Martes 16 de mayo en sala de redacción de la escuela
 
 <table>
   <tr>
-    <td>**Entregas y retroalimentación:** Todos los ejercicios deben formar parte de una página web hecha por los grupos de estudiantes. Para las entregas, los estudiantes deben llenar este [formulario de Google] (http://bit.ly/craft2espannol17form) y enviarlo. En el formulario se debe especificar claramente la tarea y el trabajo hecho por cada estudiante en el ejercicio. Todas las entregas, incluyendo los "pitches" por escrito, se deben enviar a los profesores el lunes antes de la clase, a más tardar a las 12 del mediodía. Los estudiantes recibirán su nota y los comentarios de los profesores a través de un correo electrónico.
+    <td>Entregas y retroalimentación: Todos los ejercicios deben formar parte de una página web hecha por los grupos de estudiantes. Para las entregas, los estudiantes deben llenar este [formulario de Google] (http://bit.ly/craft2espannol17form) y enviarlo. En el formulario se debe especificar claramente la tarea y el trabajo hecho por cada estudiante en el ejercicio. Todas las entregas, incluyendo los "pitches" por escrito, se deben enviar a los profesores el lunes antes de la clase, a más tardar a las 12 del mediodía. Los estudiantes recibirán su nota y los comentarios de los profesores a través de un correo electrónico.
 </td>
   </tr>
 </table>
@@ -228,18 +234,29 @@ Martes 16 de mayo en sala de redacción de la escuela
 Para las asignaciones y ejercicios:
 
 A + (97-100): una pieza estelar.  Está lista para ser publicada en un medio profesional con cambios mínimos.  
+
 A (93-96): un trabajo excelente. Está listo para publicarse profesionalmente con algunos cambios.
+
 A- (90-92): un trabajo de buena calidad, aunque le hace falta una revisión un poco más significativa para poder publicarse.
+
 B+ (87-89): un trabajo sólido que muestra algunas deficiencias evidentes.
-B: (83-86): del montón; cumple con algunos requisitos, pero carece de varios 	elementos importantes.
-B- (80-82): un trabajo mediocre, está por debajo del promedio y necesita una 	revisión profunda.
+
+B: (83-86): del montón; cumple con algunos requisitos, pero carece de varios elementos importantes.
+
+B- (80-82): un trabajo mediocre, está por debajo del promedio y necesita una revisión profunda.
+
 C+ (77-79): un trabajo deficiente. Presenta problemas de estructura y de reportería.
-C (73-76): muy flojo. Es casi inaceptable debido a los grandes problemas de 	fondo que exhibe.
+
+C (73-76): muy flojo. Es casi inaceptable debido a los grandes problemas de fondo que exhibe.
+
 C- (70-73): inaceptable. No cumple con los requisitos mínimos de un trabajo a nivel graduado de periodismo.
+
 D: CUNY no cuenta con esta nota a nivel graduado.
+
 F: El trabajo ha fracasado en casi todos los niveles.
 
 La nota final del curso se calcula de esta manera:
+
 70% le corresponde a los ejercicios y asignaciones
 10% a los ejercicios de investigación en clase
 10% asistencia y participación en clase
