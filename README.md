@@ -4,6 +4,7 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 **Código:** Journ 72000  
 **Créditos:** 6 Créditos  
 **Semestre:** primavera 2017 [(calendario del semestre)](http://www2.cuny.edu/academics/academic-calendars/)
+
 **Extensión:** 15 semanas (martes 31 de enero al martes 16 de mayo), [calendario semanal](https://www.journalism.cuny.edu/wp-content/blogs.dir/1/files/2017/01/Spring2017Schedule1.25.17.pdf).   
 **Salón/Horario:** Salón 330, Martes 9:30 am - 12:20 pm, 2:00 pm - 4:20 pm  
 **Profesores:** [Miguel Paz](https://www.journalism.cuny.edu/cunyj_profiles/paz-miguel-distinguished-lecturer-data-journalism-and-multimedia-storytelling/), [Luis Trelles](http://radioambulante.org/en/producer/luis-trelles), Cristina Maldonado.
