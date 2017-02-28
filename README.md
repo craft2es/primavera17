@@ -40,20 +40,20 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 - [Objetivos del curso:](#objetivos-del-curso)
 - [Calendario](#calendario)
 		- [Semana 1](#semana-1)
-		- [SEMANA 2](#semana-2)
-		- [SEMANA 3](#semana-3)
-		- [SEMANA 4](#semana-4)
-		- [SEMANA 5](#semana-5)
-		- [SEMANA 6](#semana-6)
-		- [SEMANA 7](#semana-7)
-		- [SEMANA 8](#semana-8)
-		- [SEMANA 9](#semana-9)
-		- [SEMANA 10](#semana-10)
-		- [SEMANA 11](#semana-11)
-		- [SEMANA 12](#semana-12)
-		- [SEMANA 13](#semana-13)
-		- [SEMANA 14](#semana-14)
-		- [SEMANA 15](#semana-15)
+		- [Semana 2](#semana-2)
+		- [Semana 3](#semana-3)
+		- [Semana 4](#semana-4)
+		- [Semana 5](#semana-5)
+		- [Semana 6](#semana-6)
+		- [Semana 7](#semana-7)
+		- [Semana 8](#semana-8)
+		- [Semana 9](#semana-9)
+		- [Semana 10](#semana-10)
+		- [Semana 11](#semana-11)
+		- [Semana 12](#semana-12)
+		- [Semana 13](#semana-13)
+		- [Semana 14](#semana-14)
+		- [Semana 15](#semana-15)
 - [Editores y Mentores](#editores-y-mentores)
 - [Lecturas](#lecturas)
 
@@ -65,27 +65,27 @@ En este curso de 6 créditos trabajaremos historias de un nivel periodístico av
 
 Hay cuatro destrezas básicas que serán como el aire que respiraremos este semestre (¡así de esenciales son!): investigación y reportaje, redacción, producción multimedios y producción interactiva.  Casi todas las semanas habrá una nueva asignación que consistirá en un ejercicio práctico que ponga a prueba esas destrezas.  Durante el semestre habrá que hacer tres ejercicios avanzados de reportajes en profundidad.   Estas tareas comprenderán una serie de géneros, formatos y plataformas. Se trata de familiarizarse con diferentes tipos de acercamientos periodísticos como el reportaje explicativo, la entrevista, la nota de análisis y la crónica.  
 
-El curso enfatiza la redacción en español, pero también grabaremos videos, produciremos piezas de audio, haremos series fotográficas y diseñaremos visualizaciones de datos.   El otro gran componente de la clase está en la aplicación de herramientas de autoría web para crear piezas interactivas.
+El curso enfatiza la redacción en español, pero también grabaremos videos, produciremos piezas de audio, haremos series fotográficas y diseñaremos visualizaciones de datos. El otro gran componente de la clase está en la aplicación de herramientas de autoría web para crear piezas interactivas.
 
-La utilización de las redes sociales para ampliar el alcance del trabajo es esencial.  Para lograr esa meta, discutiremos estrategias para desarrollar una voz propia que conecte con un público diverso.  También se buscará formular titulares memorables, un ingrediente indispensable a la hora de lanzar nuestros trabajos en las redes y en cualquier tipo de plataforma.
+La utilización de las redes sociales para ampliar el alcance del trabajo es esencial. Para lograr esa meta, discutiremos estrategias para desarrollar una voz propia que conecte con un público diverso. También se buscará formular titulares memorables, un ingrediente indispensable a la hora de lanzar nuestros trabajos en las redes y en cualquier tipo de plataforma.
 
-Desde el principio del semestre nos dividiremos en pequeños grupos de dos o tres personas para trabajar un proyecto final.  Cada tarea asignada a lo largo del curso formará parte de ese proyecto.  El trabajo final será una crónica transmedia con varios elementos interactivos.  Piensen que cada trabajo asignado durante el semestre será parte del trabajo final, donde se contará una sola historia a través de crónicas escritas, audio y video. El resultado final se presentará en una página web especialmente diseñada para la historia.   Una selección de los mejores trabajos de la clase se mostrará al final del semestre en una actividad de la Escuela de Periodismo donde participan todas las clases de Craft II.
+Desde el principio del semestre nos dividiremos en pequeños grupos de dos o tres personas para trabajar un proyecto final. Cada tarea asignada a lo largo del curso formará parte de ese proyecto. El trabajo final será una crónica transmedia con varios elementos interactivos. Piensen que cada trabajo asignado durante el semestre será parte del trabajo final, donde se contará una sola historia a través de crónicas escritas, audio y video. El resultado final se presentará en una página web especialmente diseñada para la historia. Una selección de los mejores trabajos de la clase se mostrará al final del semestre en una actividad de la Escuela de Periodismo donde participan todas las clases de Craft II.
 
 Al final, todos los trabajos irán dirigidos a contar historias relevantes y de interés público.   Esto exige un periodismo riguroso, comprometido con la transparencia y la veracidad.
 
 #### Cómo funciona la clase
 
-El bloque de las mañanas se dividirá entre conferencias, presentaciones, críticas grupales y ejercicios prácticos.  Algunas sesiones contarán con la participación de conferenciantes invitados. Todas las lecturas, páginas web, apps, videos y podcasts -en español y en inglés- estarán disponibles en la carpeta de la clase en Google Drive: [http://bit.ly/2k7Th6c](http://bit.ly/2k7Th6c).  
+El bloque de las mañanas se dividirá entre conferencias, presentaciones, críticas grupales y ejercicios prácticos. Algunas sesiones contarán con la participación de conferenciantes invitados. Todas las lecturas, páginas web, apps, videos y podcasts -en español y en inglés- estarán disponibles en la carpeta de la clase en Google Drive: [http://bit.ly/2k7Th6c](http://bit.ly/2k7Th6c).  
 
-En la tarde, la clase funcionará como una sala de redacción.  Los estudiantes utilizarán este tiempo para poner en marcha la reportería de sus asignaciones y ejercicios.  Los profesores del curso estarán presentes para servir de mentores y guías en este proceso.  Una vez iniciadas las historias, la sala de redacción también funcionará como un laboratorio de redacción, producción multimedios y producción interactiva que contará con sesiones individuales de edición y la atención personalizada de los profesores.
+En la tarde, la clase funcionará como una sala de redacción. Los estudiantes utilizarán este tiempo para poner en marcha la reportería de sus asignaciones y ejercicios. Los profesores del curso estarán presentes para servir de mentores y guías en este proceso. Una vez iniciadas las historias, la sala de redacción también funcionará como un laboratorio de redacción, producción multimedios y producción interactiva que contará con sesiones individuales de edición y la atención personalizada de los profesores.
 
 **Los miércoles son para salir a la calle a reportar.  No importa en qué fase esté el proyecto que los estudiantes estén trabajando, los miércoles son para el trabajo de Craft II.**
 
 #### Requisitos Técnicos
 
 - Libreta de reportero, bolígrafos y lápices, marcadores
-- Computadora Apple que contenga el programa Microsoft Excel
-- Google Chrome  con acceso a las aplicaciones de productividad de Google (Google  Drive, Docs, Sheets, etc.)
+- Computadora Apple y Microsoft Excel
+- Google Chrome con acceso a las aplicaciones de productividad de Google (Google  Drive, Docs, Sheets, etc.)
 - Instalar [Sublime Text](http://www.sublimetext.com/) (editor de texto) e [iTerm2](https://www.iterm2.com/downloads.html).
 - Crear una cuenta personal en [Github](http://www.github.com) y descargar [Github Desktop](https://desktop.github.com/) a tu computadora (si no entiendes Github puedes indagar por ti mismo o bien esperar, tendremos una sesión completa de cómo usar Github)
 - Premier, programa de edición de video
@@ -94,7 +94,7 @@ En la tarde, la clase funcionará como una sala de redacción.  Los estudiantes 
 
 ## Las reglas del juego
 
-El éxito de este taller depende del nivel de compromiso de cada estudiante.  Es decir, le toca a cada miembro del grupo cumplir con su trabajo y las lecturas asignadas, además de estar receptivo para aportar al trabajo de los compañeros y compañeras.
+El éxito de este taller depende del nivel de compromiso de cada estudiante. Es decir, le toca a cada miembro del grupo cumplir con su trabajo y las lecturas asignadas, además de estar receptivo para aportar al trabajo de los compañeros y compañeras.
 
 <table>
   <tr>
@@ -120,7 +120,7 @@ Grupos de trabajo: Desde el primer día nos estaremos reuniendo en grupos de tra
 
 #### Código de honor
 
-Esta clase sigue las directrices del Manual del Estudiante de la Escuela de Periodismo.  El plagio o la falsificación de datos, fuentes y hechos son infracciones graves que pueden llevar a la expulsión del estudiante de la Escuela de Periodismo.  
+Esta clase sigue las directrices del Manual del Estudiante de la Escuela de Periodismo. El plagio o la falsificación de datos, fuentes y hechos son infracciones graves que pueden llevar a la expulsión del estudiante de la Escuela de Periodismo.  
 
 ## Los trabajos
 
@@ -129,6 +129,7 @@ Esta clase sigue las directrices del Manual del Estudiante de la Escuela de Peri
 Durante el semestre tendremos dos ejercicios de noticia del momento. Uno será una nota de texto y el segundo debe incluir un elemento multimedios (video o serie de fotos). Estas asignaciones se deberán hacer en el área de cobertura geográfica asignada en el primer semestre. Utilizaremos el "Daybook" de la AP en Nueva York para identificar historias. Los ejercicios de Agenda Diaria tienen una fecha de entrega muy estricta. El primero se debe entregar en 24 horas y el segundo en 48.  
 
 #### Historias en profundidad
+
 Durante el semestre exploraremos varios géneros y formatos: notas explicativas, entrevistas, análisis y crónica.
 
 #### Ejes temáticos
@@ -173,10 +174,9 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
   </tr>
 </table>
 
--  Todos los "pitches" se discutirán en clase.
+- Todos los "pitches" se discutirán en clase.
 - Primer borrador. Una vez que la propuesta ha sido aprobada por los profesores, los grupos saldrán a hacer el reportaje y entregarán la primera versión de la historia de acuerdo con la fecha de entrega establecida en clase.
-
--  Versión final. Luego de recibir las observaciones de los profesores, el estudiante entregará el borrador final. Se utilizará esta segunda versión para darle nota al trabajo.
+- Versión final. Luego de recibir las observaciones de los profesores, el estudiante entregará el borrador final. Se utilizará esta segunda versión para darle nota al trabajo.
 
 <table>
   <tr>
@@ -188,26 +188,34 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
 #### Requisitos de entrega:
 
 
-- Nota de Agenda Diaria (pauta) 1:
-	- Solo texto - 800 palabras.
-	- Entrega: miércoles 1 de febrero, 5pm
+###### Nota de Agenda Diaria (pauta) 1
+
+Solo texto - 800 palabras.
+
+Entrega: miércoles 1 de febrero, 5pm
 
 
-- Nota de Agenda Diaria (pauta) 2
-	- Texto (800 palabras) y cinco fotos
-	- Entrega: viernes 21 de abril, 5pm
+##### Nota de Agenda Diaria (pauta) 2
 
+Texto (800 palabras) y cinco fotos
 
-- Tarea 1 Nota Explicativa
-	- Texto - 500 palabras, con video - 2 minutos 30 segundos max.
-	- Pitch: martes 14 de febrero, en clase
-	- Primer borrador: lunes 20 de febrero, 12:00 pm
-	- Entrega final: lunes 27 de febrero, 12:00 pm
+Entrega: viernes 21 de abril, 5pm
 
+##### Tarea 1 Nota Explicativa
+
+Texto - 500 palabras, con video - 2 minutos 30 segundos max.
+
+Pitch: martes 14 de febrero, en clase
+
+Primer borrador: lunes 20 de febrero, 12:00 pm
+
+Entrega final: lunes 27 de febrero, 12:00 pm
 
 - Tarea 2 Entrevista
-	- Audio - hasta cinco minutos, con texto - 200 palabras, gráfica interactiva
-	- Pitch: lunes 27 de febrero, en clase
+
+Audio - hasta cinco minutos, con texto - 200 palabras, gráfica interactiva
+
+Pitch: lunes 27 de febrero, en clase
 	- Primer borrador: lunes 6 de marzo, 12:00 pm
 	- Entrega final: lunes 13 de marzo, 12:00 pm
 
