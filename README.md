@@ -130,11 +130,17 @@ Durante el semestre tendremos dos ejercicios de noticia del momento. Uno será u
 Durante el semestre exploraremos varios géneros y formatos: notas explicativas, entrevistas, análisis y crónica.
 
 #### Ejes temáticos
+
 Desde la primera semana los grupos deberán escoger un tema que investigarán durante el resto del semestre:
+
 1. Usura y azar: una mirada a los "préstamos del día de pago" y loterías clandestinas dirigidas específicamente a la comunidad latina en Nueva York.
+
 2. El dios de los latinos: una exploración de pequeñas Iglesias evangélicas (y otras denominaciones) que han surgido en los barrios latinos de la ciudad.
+
 3. Cambios en la vida de comunidades latinas en la era de Trump.
+
 4. Latinos por Trump.
+
 5. Nueva generación de políticos latinos en Nueva York.
 
 Cabe la posibilidad de que algunos trabajos se publiquen en [CityLab Latino](http://www.univision.com/noticias/citylab-latino).
@@ -165,17 +171,19 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
 
 <table>
   <tr>
-    <td>**Roles:** La propuesta escrita debe indicar claramente las tareas que deben hacer cada miembro del grupo. Estas tareas se discutirán con los profesores para asegurar que la carga de trabajo esté bien repartida dentro del grupo.</td>
+    <td>Roles: La propuesta escrita debe indicar claramente las tareas que deben hacer cada miembro del grupo. Estas tareas se discutirán con los profesores para asegurar que la carga de trabajo esté bien repartida dentro del grupo.</td>
   </tr>
 </table>
 
 2.  Todos los "pitches" se discutirán en clase.
+
 3. Primer borrador. Una vez que la propuesta ha sido aprobada por los profesores, los grupos saldrán a hacer el reportaje y entregarán la primera versión de la historia de acuerdo con la fecha de entrega establecida en clase.
+
 4.  Versión final. Luego de recibir las observaciones de los profesores, el estudiante entregará el borrador final. Se utilizará esta segunda versión para darle nota al trabajo.
 
 <table>
   <tr>
-    <td>**Redes Sociales:** Cada historia formará parte de una conversación extendida entre el estudiante y la comunidad a la que se dirige.  Una buena parte de este trabajo se llevará a cabo en las redes sociales. El uso efectivo de las redes está muy ligado al desarrollo de una voz propia. En este curso desarrollaremos esa voz para presentarnos como una fuente confiable de información, pero también para proyectarnos con un tono dinámico a través del uso del humor y de titulares memorables.
+    <td>Redes Sociales: Cada historia formará parte de una conversación extendida entre el estudiante y la comunidad a la que se dirige.  Una buena parte de este trabajo se llevará a cabo en las redes sociales. El uso efectivo de las redes está muy ligado al desarrollo de una voz propia. En este curso desarrollaremos esa voz para presentarnos como una fuente confiable de información, pero también para proyectarnos con un tono dinámico a través del uso del humor y de titulares memorables.
 </td>
   </tr>
 </table>
@@ -183,11 +191,16 @@ Las tres historias en profundidad se deben trabajar siguiendo estos cuatro pasos
 #### Requisitos de entrega:
 
 Nota de Agenda Diaria (pauta) 1
+
 Solo texto - 800 palabras
+
 Entrega: miércoles 1 de febrero, 5pm
+-
 
 Nota de Agenda Diaria (pauta) 2
+
 Texto (800 palabras) y cinco fotos
+
 Entrega: viernes 21 de abril, 5pm
 
 Tarea 1 Nota Explicativa
