@@ -36,7 +36,7 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 	- [Trabajos interactivos y multimedia](#trabajos-interactivos-y-multimedia)
 	- [El proceso](#el-proceso)		
 	- [:heavy_check_mark: Requisitos de entrega:](#heavycheckmark-requisitos-de-entrega)
-- [:key: Rúbrica](#key-rbrica)
+- [:key: Rúbrica](#key-rúbrica)
 - [:mortar_board: Objetivos del curso:](#mortarboard-objetivos-del-curso)
 - [:calendar: Calendario](#calendar-calendario)
 	- [SEMANA 1](#semana-1)
@@ -54,6 +54,7 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 	- [SEMANA 13](#semana-13)
 	- [SEMANA 14](#semana-14)
 	- [SEMANA 15](#semana-15)
+- [:zap: Fechas de entrega principales](#fechas-de-entrega-principales)
 - [:muscle: Editores y Mentores](#muscle-editores-y-mentores)
 - [:books: Lecturas](#books-lecturas)
 
@@ -701,6 +702,12 @@ Entregar versión final del proyecto en grupo MM.
 
 [Subir](##calendar-calendario)
 
+##   :zap: Fechas de entrega principales
+
+Nada más [un recordatorio de deadlines](https://github.com/craft2es/craft2es17/blob/master/entregas.md) de asignaciones en una tabla. Puedes imprimirla.
+
+[Subir](#craft-ii-en-español-periodismo-y-redacción-avanzada)
+
 ##  :muscle: Editores y Mentores
 
 - Ricardo Reif, editor en español
@@ -722,7 +729,7 @@ Disponibles en la Carpeta de Lecturas de la clase.
 - "La crónica, ornitorrinco de la prosa", Juan Villoro
 - "Narrativas transmedia: cuando todos los medios cuentan", Carlos Alberto Scolari
 
-Disponibles en el Research Center. Veremos capitulos específicos y están para consulta de referencia.
+Disponibles en el Research Center para consulta de referencia. Veremos capítulos específicos de algunos de estos libros.
 
 - "[Computer-Assisted Reporting: A Practical Guide](http://store.ire.org/collections/books/products/computer-assisted-reporting-a-practical-guide-3rd-edition-e-version)", by Brant Houston
 - “Numbers in the Newsroom: Using Math and Statistics in News”, Sarah Cohen
