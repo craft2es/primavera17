@@ -345,7 +345,7 @@ Salir a la calle a reportar la Asignación 1.
 
 Fecha de entrega de Asignación 1: 9pm.
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -380,7 +380,7 @@ Notas explicativas:
 Videoperiodismo:
 - "Producing A Feature Video Story", en Feature and Narrative Storytelling For Multimedia Journalists, de Duy Linh Tu
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -408,7 +408,7 @@ Lecturas:
 **Miércoles 15 de febrero**
 **No hay día de reporteo- las clases siguen el itinerario de los lunes**
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -435,7 +435,7 @@ Lectura:
 
 Trabajo con la versión final del video social
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -464,7 +464,7 @@ Lecturas:
 
 Reporteo preliminar para armar "pitch" de Ejercicio 2
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -487,7 +487,7 @@ Entregar propuesta escrita del Ejercicio 2 - la entrevista.
 
 Salir a reportar y producir Tarea 2
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -511,7 +511,7 @@ Entregar primer borrador del Ejercicio 2 - la entrevista.
 
 Trabajo con la versión final del Ejercicio 2
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -547,7 +547,7 @@ Lecturas:
 
 Reporteo inicial para armar pitch de Ejercicio 3
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -578,7 +578,7 @@ Lectura de referencia y proyectos digitales a revisar:
 - [SND: Best of digital design 2016](http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/)
 - [OJA Awards 2016](https://journalists.org/awards/2016-awards/)
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -620,7 +620,7 @@ Entregar versión final del Ejercicio 3 - nota de análisis.
   </tr>
 </table>
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -647,7 +647,7 @@ Lecturas:
 
 Entregar Asignación 2
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -666,7 +666,7 @@ Entregar Asignación 2
 
 Salir a reportar para elementos adicionales de Proyecto Final MM
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -689,7 +689,7 @@ Salir a reportar para elementos adicionales de Proyecto Final MM
 
 Último día para realizar reportería adicional proyecto final MM
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -712,7 +712,7 @@ Entrega primer borrador de proyecto final
 
 Ajustes finales-proyecto final MM
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ---
 
@@ -730,7 +730,7 @@ Entregar versión final del proyecto en grupo MM.
 2:00pm-4:30pm:
 - Retrospectiva y ¡Fiesta de la clase!
 
-[Subir](##calendar-calendario)
+[Subir](#calendar-calendario)
 
 ##   :zap: Fechas de entrega principales
 
