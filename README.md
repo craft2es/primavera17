@@ -64,7 +64,7 @@ Programa Bilingüe de la Maestría de Periodismo de CUNY
 ##  :mag_right: Descripción del curso
 En este curso de 6 créditos trabajaremos historias de un nivel periodístico avanzado.  En esencia, se trata de hacer un trabajo que sea aún más desarrollado que las notas y proyectos de Craft I.  El formato de la clase es de taller.  Discutiremos diferentes formatos y técnicas de reportajes.  También habrá lecciones y conferencias, pero los trabajos asignados se traerán a clase para discutirlos en grupo.
 
-Hay cuatro destrezas básicas que serán como el aire que respiraremos este semestre (¡así de esenciales son!): investigación y reportaje, redacción, producción multimedios y producción interactiva.  Casi todas las semanas habrá una nueva asignación que consistirá en un ejercicio práctico que ponga a prueba esas destrezas.  Durante el semestre habrá que hacer tres ejercicios avanzados de reportajes en profundidad.   Estas tareas comprenderán una serie de géneros, formatos y plataformas. Se trata de familiarizarse con diferentes tipos de acercamientos periodísticos como el reportaje explicativo, la entrevista, la nota de análisis y la crónica.  
+Hay cuatro destrezas básicas que serán como el aire que respiraremos este semestre (¡así de esenciales son!): investigación y reportaje, redacción, producción multimedios y producción interactiva.  Casi todas las semanas habrá una nueva asignación que consistirá en un ejercicio práctico que ponga a prueba esas destrezas.  Durante el semestre habrá que hacer tres ejercicios avanzados de reportajes en profundidad.   Estas tareas comprenderán una serie de géneros, formatos y plataformas. Se trata de familiarizarse con diferentes tipos de acercamientos periodísticos como el reportaje explicativo, la entrevista, la nota de reportaje y la crónica.  
 
 El curso enfatiza la redacción en español, pero también grabaremos videos, produciremos piezas de audio, haremos series fotográficas y diseñaremos visualizaciones de datos. El otro gran componente de la clase está en la aplicación de herramientas de autoría web para crear piezas interactivas.
 
@@ -135,7 +135,7 @@ Durante el semestre tendremos dos ejercicios de noticia del momento. Uno será u
 
 #### Historias en profundidad
 
-Durante el semestre exploraremos varios géneros y formatos: notas explicativas, entrevistas, análisis y crónica.
+Durante el semestre exploraremos varios géneros y formatos: notas explicativas, entrevistas, reportaje y crónica.
 
 #### Ejes temáticos
 
@@ -224,9 +224,9 @@ Primer borrador: lunes 6 de marzo, 12:00 pm.
 
 Entrega final: lunes 13 de marzo, 12:00 pm.
 
-- **Tarea 3 Nota de análisis**
+- **Tarea 3 Nota de reportaje**
 
-Texto - 1,000 palabras, elemento interactivo avanzado (mapa, gráficos, línea de tiempo y/u otros).
+Texto - 1500 palabras, elemento interactivo avanzado (mapa, gráficos, línea de tiempo y/u otros).
 
 Pitch: lunes 21 de marzo, en clase.
 
@@ -242,7 +242,7 @@ Evaluación grupal proyecto final: miércoles 19 de abril, día de clase extraor
 
 Plan de trabajo proyecto final: martes 25 de abril, en clase.
 
-Trabajo con coach web-interactivo: martes 2 de mayo, en clase vespertina.
+Trabajo con coach web-interactivo: **fecha por definir.**
 
 Borrador proyecto final: lunes 8 de mayo.
 
@@ -531,9 +531,9 @@ Entregar versión final del Ejercicio 2 - la entrevista.
 **Martes 21 de marzo**
 
 9:30am-12:20pm:
-- Lección: la nota de análisis
+- Lección: la nota de reportaje
 - Técnicas para el acercamiento investigativo
-- Sala de Redacción: poner en marcha el "pitch" para Ejercicio 3, Nota de Análisis
+- Sala de Redacción: poner en marcha el "pitch" para Ejercicio 3, Nota de reportaje
 
 2:00pm-4:30pm:
 - Taller: Investigando historias en la data con SQLite. Requisitos: [descargar SQLite](https://github.com/miguelpaz/install-SQLite) y tener Firefox instalado.
@@ -555,12 +555,12 @@ Reporteo inicial para armar pitch de Ejercicio 3
 
 **Lunes 27 de marzo**
 
-Entregar pitch escrito del Ejercicio 3 - análisis.
+Entregar pitch escrito del Ejercicio 3 - reportaje.
 
 **Martes 28 de marzo**
 
 9:30am-12:20pm:
-- "Pitch" en clase: Ejercicio 3 - nota de análisis
+- "Pitch" en clase: Ejercicio 3 - nota de reportaje
 - Manejo, interpretación y corroboración de información: una guía
 - Investigación Avanzada: compañías, negocios y organizaciones sin fines de lucro
 
@@ -574,9 +574,11 @@ Entregar pitch escrito del Ejercicio 3 - análisis.
 Salir a reportar Ejercicio 3
 
 Lectura de referencia y proyectos digitales a revisar:
-- "[La navaja suiza del reportero](https://drive.google.com/open?id=0B7HQWsnha-oQQl92a1dLSGN1X2s)", Manual de Investigación de Ojo Público.
-- [SND: Best of digital design 2016](http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/)
-- [OJA Awards 2016](https://journalists.org/awards/2016-awards/)
+- Inspiración: [SND: Best of digital design 2016](http://www.snd.org/2017/02/final-results-best-of-digital-design-2016/)
+- Inspiración: [OJA Awards 2016](https://journalists.org/awards/2016-awards/)
+- De consulta: "[La navaja suiza del reportero](https://drive.google.com/open?id=0B7HQWsnha-oQQl92a1dLSGN1X2s)", Manual de Investigación de Ojo Público.
+- De consulta: "The Investigative Reporter´s Handbook: A Guide to Documents, Databases and Techniques", Fourth Edition. Brant Houston, Len Bruzzese, Steve Weinberg. Part One. The Basics: How to investigate anyone or anything. Páginas 3 a 35. Incluye indíce de tópicos a reportear que te llevan a la página específica. Bueno tenerlo a mano para revisar cómo otros periodistas han realizado sus investigaciones.
+- De consulta: “Manual de Periodismo de Datos Iberoamericano” ([online aquí](http://manual.periodismodedatos.org/) y disponible en Research Center). Casos de investigaciones de toda América Latina. Editado por Felipe Perry y Miguel Paz.
 
 [Subir](#calendar-calendario)
 
@@ -586,7 +588,7 @@ Lectura de referencia y proyectos digitales a revisar:
 
 **Lunes 3 de abril 12:00pm**
 
-Entregar primer borrador Ejercicio 3 - nota de análisis.
+Entregar primer borrador Ejercicio 3 - nota de reportaje.
 
 **Martes 4 de abril**
 
@@ -610,7 +612,7 @@ Trabajo de revisión del Ejercicio 3
 
 **Viernes 7 de abril**
 
-Entregar versión final del Ejercicio 3 - nota de análisis.
+Entregar versión final del Ejercicio 3 - nota de reportaje.
 *(ENTREGA ADELANTADA POR EL RECESO DE PRIMAVERA)*
 
 <table>
@@ -635,8 +637,10 @@ Entregar versión final del Ejercicio 3 - nota de análisis.
 - Sala de redacción: Comenzar Asignación 2, Nota de Agenda Diaria con 5 fotos
 - Investigación Avanzada: FOIA/FOIL
 
-2:00pm-4:30pm:
-- Taller Interactivo: Revisión de avance y calidad de proyectos grupales MM. GitHub avanzado y línea de comando.
+**Horario extraordinario**
+
+18:30pm-21:30pm
+- Taller de interactivo 3: HTML, CSS, Jquery, Javascript. Revisión de avance y calidad de proyectos grupales MM. (Sólo si tenemos tiempo: GitHub avanzado y línea de comando).
 
 Lecturas:
 - "[Narrativas Transmedia: Cuando todos los medios cuentan](https://drive.google.com/open?id=0B7HQWsnha-oQZ0ZVOENsT29PWDQ)", Carlos Scolari
