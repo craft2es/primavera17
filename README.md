@@ -639,7 +639,7 @@ Entregar versión final del Ejercicio 3 - nota de reportaje.
 
 **Horario extraordinario**
 
-18:30pm-21:30pm
+18:30pm-21:30pm. **Sala 440**
 - Taller de interactivo 3: HTML, CSS, Jquery, Javascript. Revisión de avance y calidad de proyectos grupales MM. (Sólo si tenemos tiempo: GitHub avanzado y línea de comando).
 
 Lecturas:
