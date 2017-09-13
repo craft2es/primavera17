@@ -6,7 +6,7 @@ Para las entregas, los estudiantes deben llenar el [formulario](http://bit.ly/cr
 
 Todas las entregas, incluyendo los "pitches" por escrito, se deben enviar a los profesores el lunes antes de la clase, a más tardar a las 12 del mediodía. Los estudiantes recibirán su nota y los comentarios de los profesores a través de un correo electrónico.
 
-Recuerden que cada tarea formará parte del proyecto final. 
+Recuerden que cada tarea formará parte del proyecto final.
 
 
 Tarea | Fecha de entrega
@@ -19,9 +19,9 @@ Pitch escrito entrevista audio | Lunes 27 de febrero, ver en clase
 Borrador entrevista audio | Lunes 6 de marzo, 12 pm
 Entrega final entrevista audio | Lunes 13 de marzo, 12 pm
 **Deadline para cambiar tema proyecto final** | Martes 14 de marzo, ver en clase
-Pitch escrito nota de análisis | Lunes 27 de marzo, ver en clase
-Borrador nota de análisis | Lunes 3 de abril, 12 pm
-Entrega final nota de análisis (adelantada por receso de primavera) | Viernes 7 de abril, 12 pm
+Pitch escrito reportaje | Lunes 27 de marzo, ver en clase
+Borrador nota de reportaje | Lunes 3 de abril, 12 pm
+Entrega final de reportaje (adelantada por receso de primavera) | Viernes 7 de abril, 12 pm
 Nota de agenda diaria (pauta) 2 | Viernes 21 de abril, 5 pm
 Evaluación grupal proyecto final | Miércoles 19 de abril, día de clase extraordinario
 Plan de trabajo proyecto final | Martes 25 de abril, en clase
